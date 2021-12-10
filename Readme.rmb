@@ -1,0 +1,65 @@
+Readme File ETL project :
+---------------------------------
+Folder organization:
+---------------------------------
+	# Raw_data/  			:This folder stores all the raw_data from Pubmed, NIH and ClinicalTrials
+	# rake_output/ 			:Keyword extracted using rake. 
+	# autophrase_output/ 	:Keyword extracted using autophrase.
+	#
+	# nodes_and_edges/ 		:Input to Neo4J dB.
+---------------------------------------
+python scripts flow order:
+---------------------------------------
+1.0 Preprosing the data from datasource (pubmed/Clinical_trial) to csv.
+	1.1 :  parsePubmedAbstracts.ipynb
+	1.2 : parseClinTrialsContent.ipynb 
+
+2.0 : Rake keyword extraction/parsing
+	2.1 : RAKE.ipynb
+	
+3.0 :Autphrase keyword extraction/parsing
+	3.1 : autophrase_input_extraction.ipynb
+	3.2 : Run autophrase using autophrase tool (no notebook). 
+	3.2 : autophrase_output_to_keyword_extraction.ipynb
+
+4.0 : LDA Keyword extraction (redundant)
+	4.1 :LDA_nlp_topic_keyword_extraction.ipynb
+	
+5.0 : Extracting ontology data from webpage.
+	5.1: ontology_subclasses_heartconditions.ipynb
+
+6.0 : Entity matching using keyword and abstract/title
+	6.1 : consolidate_Data_with_Keyword_Sources.ipynb
+	6.2 : Project_dedupe_entityMatch_pub_vs_clinic.ipynb
+	6.3 : Project_dedupe_entityMatch_pub_vs_nih.ipynb
+
+7.0 :  Create input to Neo4J db from entity matched data
+	7.1 : create_nodes_edges.ipynb
+
+--------------------------------------
+Python code details explanation:
+--------------------------------------
+parsePubmedAbstracts.ipynb						: Parses abstracts and PMID values from Pubmed data exported in “PubMed” txt format. Matches abstracts to same data exported as csv using PMID value. Writes new csv with abstracts added to metadata as new column
+parseClinTrialsContent.ipynb 					: Opens csv of data exported from ClinicalTrials.gov and for each entry, parses the detailed description, study arms, and eligibility criteria from the corresponding xml file (also exported from ClinicalTrials.gov). Writes new csv with detailed description, study arms, and eligibility criteria as new columns. 
+RAKE.ipynb  							 		: Uses RAKE method to extract keywords from abstract and title of PubMed data, as well as from detailed description, title, and eligibility criteria of Clinical Trials Data
+autophrase_input_extraction.ipynb				: Extracts the title/Abstract and eligibility column from the Pubmed, NIH and into TXT format which will be used to by Autophrase tool.
+autophrase_output_to_keyword_extraction.ipynb	: Autophrase extracted keyword phrases are inserted back to the dataset for entity matching.
+LDA_nlp_topic_keyword_extraction.ipynb			: Using LDA ML algorthim to extract the Key words.
+ontology_subclasses_heartconditions.ipynb		: Matches phrases pulled from ontologies to keywords pulled from pubmed, nih, and clinical trials data.
+consolidate_Data_with_Keyword_Sources.ipynb		: Consolidatating all the keywords from diffrent methods into single source. for entity matching. 
+Project_dedupe_entityMatch_pub_vs_clinic.ipynb	: Entity matching using dedupe between Pubmed and clinical trial datasource.
+Project_dedupe_entityMatch_pub_vs_nih.ipynb		: Entity matching using dedupe between Pubmed and NIH datasource.
+
+
+…or create a new repository on the command line
+echo "# DSE203-ETL-Project" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/rramachandra-ucsd/DSE203-ETL-Project.git
+git push -u origin main
+…or push an existing repository from the command line
+git remote add origin https://github.com/rramachandra-ucsd/DSE203-ETL-Project.git
+git branch -M main
+git push -u origin main
