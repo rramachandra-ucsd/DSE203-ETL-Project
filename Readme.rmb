@@ -5,7 +5,7 @@ Folder organization:
 	# Raw_data/  			:This folder stores all the raw_data from Pubmed, NIH and ClinicalTrials
 	# rake_output/ 			:Keyword extracted using rake. 
 	# autophrase_output/ 	:Keyword extracted using autophrase.
-	#
+	# ENTITY_MATCH_OUTPUT/   : Ouput folder which has all the entity matched dataset.
 	# nodes_and_edges/ 		:Input to Neo4J dB.
 ---------------------------------------
 python scripts flow order:
@@ -33,8 +33,9 @@ python scripts flow order:
 	6.2 : Project_dedupe_entityMatch_pub_vs_clinic.ipynb
 	6.3 : Project_dedupe_entityMatch_pub_vs_nih.ipynb
 
-7.0 :  Create input to Neo4J db from entity matched data
+7.0 :  Load data to Neo4J db from entity matched data
 	7.1 : create_nodes_edges.ipynb
+	7.2 : NEO4J_dataParking.ipynb
 
 --------------------------------------
 Python code details explanation:
@@ -49,3 +50,5 @@ ontology_subclasses_heartconditions.ipynb		: Matches phrases pulled from ontolog
 consolidate_Data_with_Keyword_Sources.ipynb		: Consolidatating all the keywords from diffrent methods into single source. for entity matching. 
 Project_dedupe_entityMatch_pub_vs_clinic.ipynb	: Entity matching using dedupe between Pubmed and clinical trial datasource.
 Project_dedupe_entityMatch_pub_vs_nih.ipynb		: Entity matching using dedupe between Pubmed and NIH datasource.
+create_nodes_edges.ipynb						: Using the entity matched output, create csv which will be used as nodes and edges
+NEO4J_dataParking.ipynb							: Parking data to neo4J and sample queries and equivalent output. 
