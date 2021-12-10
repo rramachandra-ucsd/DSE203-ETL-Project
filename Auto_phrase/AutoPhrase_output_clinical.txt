@@ -1,0 +1,1538 @@
+0.9703561494	atrial fibrillation
+0.9618549541	sick sinus syndrome
+0.9606055732	ejection fraction
+0.9604201944	phrenic nerve
+0.9571817437	myocardial infarction
+0.9560098859	magnetic resonance
+0.9522880314	heart failure
+0.9520752280	informed consent
+0.9500649514	beta blocker
+0.9484025716	united states
+0.9464696225	aortic valve
+0.9445343218	congestive heart failure
+0.9431474344	valvular heart disease
+0.9424082654	blood pressure
+0.9415789108	beta blockers
+0.9405500956	life expectancy
+0.9370671086	sinus rhythm
+0.9369406418	magnetic resonance imaging
+0.9349947379	gold standard
+0.9349822799	implantable cardioverter defibrillator
+0.9344963499	american heart association
+0.9323175619	cardiopulmonary bypass
+0.9319476191	mitral valve
+0.9318133765	sudden cardiac death
+0.9299600765	statistical analysis
+0.9287955473	coronary sinus
+0.9277225124	sample size
+0.9252330272	coronary artery disease
+0.9245018320	aortic stenosis
+0.9232955445	acute kidney injury
+0.9230212900	subclavian vein
+0.9227734061	sleep apnea
+0.9201490449	mri scan
+0.9189491728	chagas disease
+0.9185485442	heart rate
+0.9166700610	dilated cardiomyopathy
+0.9140973947	general anesthesia
+0.9139083749	adverse event
+0.9138447983	qrs complex
+0.9136808404	clinical trial
+0.9132522246	sinus node
+0.9119472408	left bundle branch
+0.9088592734	adverse events
+0.9082375672	public health
+0.9051973830	scar tissue
+0.9042736429	local anesthesia
+0.9028738410	vital signs
+0.9026429817	cardiac surgery
+0.9022577324	congenital heart disease
+0.9002727826	exclusion criteria
+0.8999943262	atrioventricular block
+0.8984233076	cardiac arrest
+0.8971369468	radiation exposure
+0.8968921737	left ventricle
+0.8963691906	bundle branch block
+0.8946872034	atrial flutter
+0.8937555459	steering committee
+0.8925458587	left ventricular
+0.8914193123	monitoring station
+0.8914153050	cardiac output
+0.8864920107	anti inflammatory
+0.8850131651	heart rate variability
+0.8838156477	health care
+0.8836408722	cognitive function
+0.8828559800	heart disease
+0.8808910914	physical activity
+0.8804513360	pulmonary vein isolation
+0.8791640550	randomly assigned
+0.8779547701	minimally invasive
+0.8775637272	primary safety endpoint
+0.8771216995	holter monitor
+0.8764396773	eligibility criteria
+0.8751564429	data analysis
+0.8746342921	secondary endpoints
+0.8721604408	end points
+0.8718977382	heart valve
+0.8683322863	edwards sapien
+0.8682802651	ventricular tachycardia
+0.8675062487	randomized controlled trial
+0.8660556983	meta analysis
+0.8657613330	paravalvular leakage
+0.8656465287	natriuretic peptide
+0.8652142291	tricuspid regurgitation
+0.8628161159	coronary artery bypass
+0.8613859759	clinical trials
+0.8608909871	av delay
+0.8598129688	inclusion criteria
+0.8572296535	chest pain
+0.8569904034	acurate neo
+0.8555702618	clinical research
+0.8555100520	implantable cardioverter defibrillators
+0.8549956648	cardiac resynchronisation therapy
+0.8543067558	pulmonary veins
+0.8541900583	transthoracic echocardiography
+0.8516446832	observational study
+0.8501166275	scopeguide ®
+0.8492301815	qrs duration
+0.8487506836	double blind
+0.8471704281	atrio ventricular
+0.8461908393	written informed consent
+0.8453671743	pulmonary vein
+0.8452128031	cardiac resynchronization therapy
+0.8446703068	secondary objectives
+0.8445644863	beats min
+0.8428852710	fdg pet
+0.8409609509	surgical aortic valve replacement
+0.8386180810	implantable cardioverter
+0.8382503424	open label
+0.8379725566	aortic valve stenosis
+0.8374461243	transcatheter aortic valve implantation
+0.8369061901	electrical cardioversion
+0.8366681025	persistent af
+0.8345287044	stroke volume
+0.8335019628	vasovagal syncope
+0.8332103473	mitral regurgitation
+0.8316162094	coronary angiography
+0.8312091311	sacral nerve
+0.8310730884	prosthetic material
+0.8308403843	dp dt
+0.8303436577	dual chamber
+0.8298229069	primary endpoint
+0.8291382747	patient population
+0.8290109210	kaplan meier
+0.8289774613	t1 mapping
+0.8288002357	data collection
+0.8284812918	pet ct
+0.8282455332	integrated pet mri
+0.8266163625	sinus node dysfunction
+0.8257781574	mg kg
+0.8252649159	medical history
+0.8247479424	clinical practice
+0.8236074226	medical therapy
+0.8201957263	diagnostic yield
+0.8194146916	life threatening
+0.8194062786	outdoor exposure
+0.8175401957	follow ups
+0.8172033975	study design
+0.8158620843	oxygen consumption
+0.8152622067	antiarrhythmic drugs
+0.8148603567	exercise capacity
+0.8148386034	patient safety
+0.8138238279	phase ii
+0.8135683865	heart rhythm
+0.8117120197	remote monitoring
+0.8105748971	nyha class
+0.8104271675	venous access
+0.8084739914	study population
+0.8084128959	control group
+0.8079659395	pet mri
+0.8078089666	end point
+0.8076317308	hospital stay
+0.8075525157	lead extraction
+0.8069885815	severe aortic stenosis
+0.8063771512	bundle pacing
+0.8061909007	blood samples
+0.8059673616	healthy controls
+0.8052839912	av node
+0.8051924778	balloon expandable
+0.8035404783	long term
+0.8033108757	operating room
+0.8031930862	x ray
+0.8030205080	ethics committee
+0.8017146835	aortic valve replacement
+0.8013335560	coronary artery
+0.8007732708	transcatheter aortic valve replacement
+0.8001177458	primary efficacy endpoint
+0.7974424372	ck mb
+0.7960385614	left atrium
+0.7956366479	anti arrhythmic
+0.7956114310	clinical evaluation
+0.7953965326	mechanical dyssynchrony
+0.7952635642	ventricular pacing
+0.7952351113	av block
+0.7950171700	catheter ablation
+0.7934424372	mann whitney
+0.7932726570	electrical activation
+0.7929668199	cardioverter defibrillator
+0.7928713326	conduction delay
+0.7927002400	post implant
+0.7912201705	omega 3
+0.7909836111	jude medical
+0.7905313799	cycle length
+0.7901686635	usual care
+0.7900628984	sudden death
+0.7898633624	heart block
+0.7885751194	chagas cardiomyopathy
+0.7881482848	cardioverter defibrillators
+0.7881150723	pilot study
+0.7875930289	rate adaptive
+0.7861208052	left ventricular ejection fraction
+0.7858752330	written consent
+0.7845562752	clinically relevant
+0.7831176141	adverse effects
+0.7829140066	nt pro bnp
+0.7825395543	myocardial injury
+0.7825289863	pulse generator
+0.7808348803	peri procedural
+0.7806516853	functional class
+0.7804886017	vascular access
+0.7803652828	cardiopulmonary exercise testing
+0.7798608199	university hospital
+0.7796736640	real world
+0.7790651475	beneficial effects
+0.7780336245	oropharyngeal scc
+0.7779254354	loop recorder
+0.7773543400	exposure reduction
+0.7772565893	rate responsive
+0.7772197728	valve implantation
+0.7756239420	mechanical activation
+0.7753993161	nt probnp
+0.7751076610	oxygen uptake
+0.7728432482	cross clamp
+0.7726905827	wall motion
+0.7722932249	cardiac arrhythmia
+0.7719243061	placebo controlled
+0.7715241777	conduction disturbances
+0.7710925371	pacemaker implantation
+0.7694728665	medical records
+0.7675679506	significance level
+0.7669249778	transcatheter aortic valve
+0.7666889964	biventricular pacing
+0.7648443624	ultrasound guided
+0.7648125130	cardiac mri
+0.7644054050	double blinded
+0.7628341533	chronotropic incompetence
+0.7627417206	multi center
+0.7621862652	battery longevity
+0.7614399977	short term
+0.7604233659	permanent pacemaker
+0.7596192185	av node ablation
+0.7583525431	phrenic nerve stimulation
+0.7565056121	blood flow
+0.7560222148	study duration
+0.7545613034	fda approved
+0.7532327364	device implantation
+0.7527739713	home monitoring
+0.7526979302	low risk
+0.7525401748	exercise tolerance
+0.7511517969	av conduction
+0.7495796678	heart team
+0.7471745771	minnesota living with heart failure
+0.7455516488	cohort study
+0.7435001972	major adverse
+0.7406533552	ecg monitoring
+0.7405879088	severe symptomatic aortic stenosis
+0.7403199494	myocardial scar
+0.7396884503	post market
+0.7348237515	primary objective
+0.7346993267	end systolic volume
+0.7341316239	beats per minute
+0.7339822333	single blind
+0.7296385198	end diastolic
+0.7294228514	hospital discharge
+0.7289572614	ventricular arrhythmias
+0.7267923683	long standing persistent
+0.7251741176	ablation procedure
+0.7251139273	lead placement
+0.7240461740	rv pacing
+0.7226774564	surgical procedure
+0.7221818945	cardiovascular events
+0.7220190759	intrinsic conduction
+0.7206532060	post operative
+0.7199174914	heart rates
+0.7197035970	st segment
+0.7191288434	cardiac implantable electronic
+0.7190061947	hour holter monitoring
+0.7169121577	left atrial
+0.7160441597	risk stratification
+0.7123339003	single arm
+0.7085605467	left bundle
+0.7062494041	walk test
+0.7050337604	single chamber
+0.7048045340	york heart association
+0.7034481252	biventricular pacemaker
+0.7030967090	cost effectiveness
+0.7023897710	holter monitoring
+0.7017196258	electrical activity
+0.7000131500	tissue doppler imaging
+0.6990530907	single centre
+0.6982441936	low dose
+0.6911432131	success rate
+0.6908497884	valve replacement
+0.6888711251	left ventricular function
+0.6878975496	cardiac function
+0.6863371596	resynchronization therapy
+0.6860849149	open heart surgery
+0.6843539307	tissue doppler
+0.6828958403	cardiovascular disease
+0.6807621582	clinical outcomes
+0.6798662285	intention to treat
+0.6793495447	primary outcome
+0.6785649853	af burden
+0.6778258984	thromboembolic events
+0.6752484395	secondary outcomes
+0.6750926170	force frequency
+0.6739834381	physiologic pacing
+0.6735921168	morbidity and mortality
+0.6707487217	mr imaging
+0.6705085479	single center
+0.6704606435	pacemaker or icd
+0.6692631554	quality of life
+0.6691438198	exercise testing
+0.6691276623	dual chamber pacemaker
+0.6690269383	cardiac pacemaker
+0.6685414330	high output
+0.6683677970	aortic regurgitation
+0.6680416866	current guidelines
+0.6644956665	lv function
+0.6631820822	pre discharge
+0.6617512398	surgical risk
+0.6601149310	risk factors
+0.6580626411	invited to participate
+0.6549859451	standard of care
+0.6528536284	pacemaker dependent
+0.6523988051	tavi procedure
+0.6522303327	mass index
+0.6508499034	permanent pacemaker implantation
+0.6489602333	controlled trial
+0.6477530793	exercise test
+0.6467391529	treatment group
+0.6459257782	performance and mood
+0.6453773403	safety and efficacy
+0.6441040719	length of stay
+0.6438904154	treating physician
+0.6438222550	standard care
+0.6425238503	efficacy and safety
+0.6415129887	clinic visit
+0.6406723133	high risk
+0.6373458170	kidney injury
+0.6371499766	clinical investigation
+0.6367980006	pacing mode
+0.6357742571	high grade
+0.6355726828	ventricular stimulation
+0.6344312360	heart muscle
+0.6342916031	end systolic
+0.6342680032	control arm
+0.6323734406	dual chamber pacing
+0.6290881179	atrial pacing
+0.6289893745	implantable electronic
+0.6283883979	rhythm monitoring
+0.6283293159	congestive heart
+0.6277384934	cardiac monitoring
+0.6268649609	study endpoints
+0.6261501897	follow up visit
+0.6254937656	imaging modality
+0.6254745618	lv lead
+0.6235888747	pre and post
+0.6233022580	specific aim
+0.6230869998	moderate to severe
+0.6215063884	minute walk
+0.6207826541	de novo
+0.6198465808	left bundle branch block
+0.6192615057	cardiac rhythm
+0.6180425372	treatment groups
+0.6167505650	patient enrollment
+0.6158509809	new york heart association
+0.6116335050	consent form
+0.6101097066	implantable cardiac
+0.6074849267	post procedure
+0.6045741140	biv pacing
+0.6015448129	right ventricular apex
+0.5969639979	patients undergoing
+0.5965025038	cardiac pacing
+0.5964383357	inclusion and exclusion criteria
+0.5956303435	inclusion and exclusion
+0.5943269151	post implantation
+0.5934564130	implanted device
+0.5928794221	atrial tachyarrhythmias
+0.5878646885	implant procedure
+0.5878455929	ventricular dyssynchrony
+0.5861066645	device success
+0.5840011625	pacing lead
+0.5835818859	safety and effectiveness
+0.5823017232	crt implant
+0.5812485992	atrial and ventricular
+0.5811993570	valve surgery
+0.5811446639	randomized trial
+0.5801687146	device implant
+0.5794669117	response rate
+0.5714394427	cardiac devices
+0.5704040091	rate control
+0.5702868426	pacemaker icd
+0.5700436283	systolic dysfunction
+0.5690401128	pacemaker implant
+0.5675140910	related complications
+0.5665065786	pacemaker programming
+0.5661106668	patients receiving
+0.5656850133	cardiac device
+0.5641515248	recent studies
+0.5639009559	primary analysis
+0.5626912593	early and late
+0.5625295999	minute walk test
+0.5619349544	device performance
+0.5617188699	non inferiority
+0.5604145119	lead implantation
+0.5602831622	data collected
+0.5575499250	medical center
+0.5559228659	version 1.1
+0.5540612266	clinical study
+0.5531117906	minnesota living
+0.5528018204	randomized controlled
+0.5527396252	selection criteria
+0.5523054667	pulmonary function
+0.5511079113	heart score
+0.5509309711	rate response
+0.5508212015	left ventricular dysfunction
+0.5507202469	af ablation
+0.5500269059	cardiopulmonary exercise
+0.5487568832	lead impedance
+0.5487272979	new york
+0.5449169828	node ablation
+0.5446517524	serious adverse events
+0.5439253820	symptomatic aortic stenosis
+0.5432498957	lead position
+0.5408761921	transcatheter aortic
+0.5369056933	sf 36
+0.5338675001	high dds
+0.5329519366	bundle branch
+0.5326342413	apical pacing
+0.5319036726	intervention group
+0.5285818160	high degree
+0.5278926932	cardiac resynchronization
+0.5272201458	left ventricular lead
+0.5269587048	permanent pacing
+0.5266957501	left ventricular pacing
+0.5251387043	pacemaker clinic
+0.5237311284	chronic heart failure
+0.5222837580	follow up period
+0.5222825280	drug therapy
+0.5210982267	heart association
+0.5201625138	septal pacing
+0.5194751382	minnesota living with heart
+0.5193622831	increased risk
+0.5164242751	nervous system
+0.5156634751	pacemaker therapy
+0.5137347743	icd implantation
+0.5103269348	ventricular lead
+0.5069896109	device interrogation
+0.5068400233	crt device
+0.5068155842	months post
+0.5064507957	pacemaker or defibrillator
+0.5052609535	high risk patients
+0.5047995824	consecutive patients
+0.5042558211	persistent atrial fibrillation
+0.5032764549	pacing leads
+0.5024657113	g poem
+0.5014701252	study procedures
+0.5006972975	previous studies
+0.4999794092	baseline characteristics
+0.4995012533	response to crt
+0.4992899685	intervention arm
+0.4989028156	blood tests
+0.4976640861	eligible patients
+0.4974111628	ventricular function
+0.4971332473	r wave sensing
+0.4961018879	study sites
+0.4960940790	continuous variables
+0.4958354014	randomized study
+0.4956106970	rhythm control
+0.4954217384	ddd pacing
+0.4943860993	surgical aortic valve
+0.4929104865	ventricular septum
+0.4922977148	clinical care
+0.4920933680	arrhythmic events
+0.4912150329	lv pacing
+0.4838476144	et al
+0.4835736735	ventricular dysfunction
+0.4820428875	pacing rate
+0.4801672447	left ventricular systolic
+0.4801412186	clinical outcome
+0.4795337512	ventricular activation
+0.4791619138	electronic devices
+0.4789678464	normal sinus rhythm
+0.4781677193	cardiovascular death
+0.4766574764	≤ 35
+0.4763943617	implanted devices
+0.4747691724	surgical aortic
+0.4745804850	clinical studies
+0.4733079702	the present study
+0.4695850681	procedure related
+0.4673478171	nt pro
+0.4664128783	follow up visits
+0.4661255765	study aims
+0.4611454134	6 minute walk test
+0.4608688162	e avr
+0.4600795424	pacing sites
+0.4585441744	treatment option
+0.4569121215	long standing
+0.4537820628	prospective study
+0.4533168755	rva pacing
+0.4522205071	post tavi
+0.4507753807	recurrence rate
+0.4497938774	study site
+0.4437620315	adult patients
+0.4427623054	adverse device
+0.4398672244	low risk patients
+0.4392062937	cardiac ct
+0.4374025587	co morbidities
+0.4365495979	pacing modes
+0.4360134646	rate variability
+0.4356792843	pre implant
+0.4352322240	higher risk
+0.4350713743	lead positioning
+0.4294925127	open heart
+0.4262273070	patients with chronic heart failure
+0.4243780609	clinical data
+0.4238648520	limited data
+0.4237461057	post procedural
+0.4234767098	cardiac amyloid
+0.4230941621	crt d
+0.4219674114	ventricular ejection fraction
+0.4199318673	safety endpoint
+0.4183469889	pediatric patients
+0.4174793429	y n
+0.4170716860	study participants
+0.4159277211	structural heart
+0.4159052735	clinically significant
+0.4144354450	month follow
+0.4138858452	artery bypass
+0.4128430820	lead ecg
+0.4107072399	predictive value
+0.4094754644	time frame
+0.4091203904	quality of life questionnaire
+0.4078180088	functional status
+0.4077162642	left ventricular ejection
+0.4062847906	month period
+0.4062357379	crt p
+0.4057643460	non invasively
+0.4054967322	high quality
+0.4046087454	lv end systolic
+0.4045473393	treatment options
+0.4039532262	study period
+0.4034321003	cross over
+0.4000083245	efficacy endpoint
+0.3983613843	ventricular apex
+0.3978951432	electrical stimulation
+0.3977759305	acute coronary
+0.3972917824	pre specified
+0.3941363087	clinically indicated
+0.3905388642	ventricular apical
+0.3900475959	patient selection
+0.3900137427	sapien 3
+0.3884756134	12 lead ecg
+0.3880776280	commercially available
+0.3877630787	exact test
+0.3870339458	hemodynamic parameters
+0.3847942841	follow up
+0.3846086352	exercise training
+0.3824804881	pacing thresholds
+0.3815161629	6 minute walk
+0.3778701051	research team
+0.3776217718	clinical benefit
+0.3773021363	coronary intervention
+0.3768088122	leadless pacemakers
+0.3758442014	patients with sss
+0.3749725059	care unit
+0.3740513038	implanted pacemaker
+0.3739560574	varc 2
+0.3737626780	study protocol
+0.3736208288	self expanding
+0.3715040618	right ventricular pacing
+0.3697888302	early and late outcome
+0.3689522140	treatment arms
+0.3662378880	right ventricle
+0.3644535085	twice daily
+0.3631484646	nerve stimulation
+0.3627768945	chronic heart
+0.3571016622	pacemaker device
+0.3536650456	device data
+0.3483783477	cross over study
+0.3482893224	systolic volume
+0.3477839181	left and right
+0.3441488082	95 ci
+0.3428698268	doppler imaging
+0.3425044342	right atrium
+0.3382416602	r wave
+0.3382310486	heart failure patients
+0.3372045571	patients with af
+0.3372043580	new york heart
+0.3371524430	greater than
+0.3370741320	12 and 24
+0.3367226606	right ventricular
+0.3360924984	valvular heart
+0.3356545627	patients with severe
+0.3354763736	patients with severe symptomatic
+0.3350441781	late outcome of tavi
+0.3326499097	right and left
+0.3319540563	whole body
+0.3318018546	48 hours
+0.3305609109	aortic valve implantation
+0.3299959575	dual chamber pacemakers
+0.3295027335	cancer patients
+0.3276046976	number of patients
+0.3274580208	chf patients
+0.3234479668	collect data
+0.3230497339	prospective randomized
+0.3229517758	advanced heart
+0.3222081037	patients with heart failure
+0.3211167110	device related
+0.3208538463	non responders
+0.3187719817	48 hour
+0.3179761932	congenital heart
+0.3164708686	controlled trials
+0.3143646066	n =
+0.3143344565	non invasive
+0.3126707050	24 hour
+0.3119502435	caused by
+0.3096597992	take place
+0.3050400029	prospective observational
+0.3048792963	body mass
+0.3038981950	all cause mortality
+0.3035545438	device follow up
+0.3017257172	prospective cohort
+0.2997252364	implanted cardiac
+0.2994249892	95 confidence
+0.2992265910	after cardiac surgery
+0.2991432779	12 months
+0.2968377719	the investigators hypothesize
+0.2966337309	side effects
+0.2939786920	new onset
+0.2902763465	group of patients
+0.2901640865	cardiac implantable
+0.2900467903	routine clinical
+0.2895999218	cardiovascular risk
+0.2882677142	24 hours
+0.2855242537	resynchronisation therapy
+0.2846176568	capable of
+0.2831697593	depending on
+0.2793772192	persistent atrial
+0.2778251013	two sided
+0.2758339718	intensive care
+0.2755020268	severe symptomatic
+0.2738607759	most common
+0.2732654201	days post
+0.2712266567	14 days
+0.2661587640	pacemaker patients
+0.2660676359	elderly patients
+0.2656418427	enrolled patients
+0.2648999478	six months
+0.2645270764	right atrial
+0.2643139390	syncope patients
+0.2627592651	widely used
+0.2627092502	undergoing tavi
+0.2615393678	6 months
+0.2601602447	before and after
+0.2596512227	nyha functional
+0.2588641783	february may
+0.2583037229	sub study
+0.2576285436	ventricular leads
+0.2575939740	valve system
+0.2557674993	based on
+0.2530642480	month follow up
+0.2523278642	branch block
+0.2512343649	related adverse
+0.2508550946	optimal medical
+0.2506746943	living with heart failure
+0.2489657393	30 days
+0.2487363287	suffering from
+0.2471416235	lv end
+0.2465544842	standard clinical
+0.2461008423	rather than
+0.2458425536	so far
+0.2452382183	early and late outcome of
+0.2421985018	18 years
+0.2418280312	7 days
+0.2417778220	recent years
+0.2404614620	risk patients
+0.2400154649	the primary endpoint
+0.2389159247	chamber pacemaker
+0.2374237915	well established
+0.2372100155	less than
+0.2371110041	6 month
+0.2363808613	in recent years
+0.2344869696	real time
+0.2336925688	delivery system
+0.2328915619	american heart
+0.2322410669	defined as
+0.2320943107	output pacing
+0.2282372081	years old
+0.2278809110	first line
+0.2256903705	24 months
+0.2254532108	time to first
+0.2226500326	hf patients
+0.2210042936	af patients
+0.2188892016	during and after
+0.2179176561	study designed to
+0.2179085864	risk factors for
+0.2178479779	3 months
+0.2171216834	as well as
+0.2155772005	the site of
+0.2154834365	conduction system
+0.2131294147	the heart muscle
+0.2130267475	patients treated with
+0.2128827886	does not
+0.2118703866	did not
+0.2095960684	the day of
+0.2095455891	patients implanted with
+0.2073535899	this pilot study
+0.2072826018	clinical follow up
+0.2055872614	at least
+0.2037554224	prior to
+0.2036137636	patients with severe aortic
+0.2025262974	the basis of
+0.2025164700	this study
+0.1991977679	the primary outcome
+0.1989151863	in contrast to
+0.1986165979	increased risk of
+0.1982419999	patients with permanent
+0.1980836345	due to
+0.1954326809	the research team
+0.1951476631	with severe aortic
+0.1942837606	a variety
+0.1937318899	more than
+0.1936906138	do not
+0.1928291919	the coronary sinus
+0.1926101354	6 weeks
+0.1923597844	pacemaker implantation in
+0.1921043331	accordance with
+0.1919899744	in order to
+0.1915789977	high risk for
+0.1884683367	the left ventricle
+0.1883586471	failure questionnaire
+0.1881757889	electronic device
+0.1877515422	high risk of
+0.1876209634	current standard
+0.1874825698	in heart failure patients
+0.1872335781	a single center
+0.1856754335	the changes of
+0.1840247775	the primary efficacy
+0.1835376993	late outcome
+0.1831201493	non ischemic
+0.1830014105	or dual chamber
+0.1818294270	the force frequency
+0.1815405990	every 6 months
+0.1811475712	most important
+0.1802549409	cardiac resynchronisation
+0.1799359540	at rest
+0.1797220653	variety of
+0.1789908884	patients randomized to
+0.1788610812	as soon as
+0.1782007896	sudden cardiac
+0.1780151111	in accordance
+0.1776234949	primary end
+0.1767204044	according to
+0.1760552522	patients admitted
+0.1759645779	in patients with heart failure
+0.1749383733	in patients undergoing
+0.1749039038	serve as
+0.1747290515	one month
+0.1740288797	differences between
+0.1728114690	the inclusion criteria
+0.1722929492	cls on
+0.1717427217	to assess
+0.1712260550	to evaluate
+0.1712247849	patients with implanted
+0.1711210930	group 2
+0.1705172921	interfere with
+0.1698166473	normal sinus
+0.1694369844	in sinus rhythm
+0.1683888687	late outcome of
+0.1679341780	primary efficacy
+0.1675884876	regardless of
+0.1670736165	non randomized
+0.1670492351	study aims to
+0.1662815175	4 weeks
+0.1659968183	the study period
+0.1638613750	include patients
+0.1635152617	in terms of
+0.1626450982	patients with
+0.1619819316	compared to
+0.1615300067	such as
+0.1535588816	this registry
+0.1534381491	the sample size
+0.1524947385	5 years
+0.1516099219	the control group
+0.1498280964	at 30 days
+0.1489655998	ventricular end
+0.1482900442	18 months
+0.1481376200	benefit from
+0.1477579908	associated with
+0.1468205116	90 days
+0.1464178920	2 weeks
+0.1463753632	patients treated
+0.1455577751	asked to
+0.1453910668	artery disease
+0.1450384226	with or without
+0.1426717993	9 months
+0.1425669736	of patients undergoing
+0.1417822972	difference between
+0.1398136198	determined by
+0.1391899939	able to
+0.1382616777	to determine
+0.1370568658	in europe
+0.1367923359	to achieve
+0.1366032990	cardiac magnetic
+0.1365585488	commonly used
+0.1363235781	three months
+0.1358745563	lower than
+0.1340294659	both groups
+0.1340148526	all patients
+0.1331542783	two groups
+0.1326855188	candidates for
+0.1326072122	at 6 months
+0.1323354666	group 1
+0.1317779798	the primary safety
+0.1308646920	the study
+0.1305992884	patients with chronic
+0.1294094221	the primary objective
+0.1293500312	months after
+0.1288004678	ventricular function and
+0.1283821001	determine whether
+0.1280075367	effect on
+0.1271116610	after tavr
+0.1267683507	with severe symptomatic
+0.1264291168	severe aortic
+0.1262784541	information about
+0.1262701916	with heart failure
+0.1259617347	heart surgery
+0.1250912899	compared with
+0.1240863332	pacing in patients
+0.1240431438	an informed consent
+0.1237444988	6 and 12 months
+0.1236929548	to compare
+0.1231985603	a dual chamber
+0.1220550112	designed to
+0.1219716532	to ensure
+0.1218004630	each patient
+0.1214557552	serious adverse
+0.1214511998	classified as
+0.1212952025	the long term
+0.1202285149	one week
+0.1199051717	data from
+0.1183828234	the heart rate
+0.1182174112	the steering committee
+0.1179289971	each subject
+0.1176166110	heart failure with
+0.1174645441	lack of
+0.1172391624	3 years
+0.1168243738	permanent pacemakers
+0.1161262438	related to
+0.1159972154	to identify
+0.1158859109	differences in
+0.1157731093	the investigators
+0.1156416799	sample size of
+0.1153254677	as follows
+0.1148437179	to investigate
+0.1146666124	all participants
+0.1145241995	for heart failure
+0.1143712818	through 30 days
+0.1133059024	time points
+0.1127496373	excluded from
+0.1126028196	per minute
+0.1125487606	1 month
+0.1120649037	the patient
+0.1110963471	10 minutes
+0.1107627620	performed using
+0.1092225831	in addition
+0.1084717468	1 ratio
+0.1084367320	with respect to
+0.1074847646	obtained from
+0.1072667111	one year
+0.1069998041	an important
+0.1060683206	a prospective
+0.1059387154	to detect
+0.1055655190	30 day
+0.1053655087	chamber pacing
+0.1049993563	30 minutes
+0.1046212241	10 years
+0.1035970083	number of
+0.1035470487	to perform
+0.1018176836	15 day
+0.1017080561	an alternative
+0.1011961842	results from
+0.1009464181	two weeks
+0.1002045259	the principal
+0.1000847921	before surgery
+0.0999309780	effects on
+0.0995920965	unable to
+0.0989769795	6 minute
+0.0989025758	each individual
+0.0976812817	the other hand
+0.0975624061	consist of
+0.0973546984	consisting of
+0.0969914519	3 month
+0.0962801365	in accordance with
+0.0951622795	patients enrolled
+0.0933123676	these devices
+0.0932748025	the danish
+0.0931748021	an independent
+0.0928204415	responsible for
+0.0927772394	each stage
+0.0926107793	these studies
+0.0921222518	defined by
+0.0920670361	measured by
+0.0909705785	to gain
+0.0907646886	contribute to
+0.0901143070	an absolute
+0.0900903635	2 months
+0.0900727038	treated with
+0.0899458457	the primary objective of
+0.0897390313	incidence of
+0.0887409569	derived from
+0.0882099564	2 years
+0.0873861037	with regard to
+0.0872183281	implanted pacemakers
+0.0871310080	the rv
+0.0871240018	in humans
+0.0869781150	expected to
+0.0869139080	randomized to
+0.0866805581	cardiac death
+0.0866693738	for example
+0.0866368452	eligible for
+0.0862839850	to explore
+0.0860303670	the investigator
+0.0858430030	patients with pacemakers
+0.0856064289	by means of
+0.0855794508	each group
+0.0854708758	to establish
+0.0849515128	1 year
+0.0849165530	as measured by
+0.0848597359	three groups
+0.0843571290	exposed to
+0.0837613261	in patients with
+0.0835746180	to examine
+0.0835325425	indication for
+0.0832357546	5 months
+0.0825626743	all subjects
+0.0823557867	recruited from
+0.0821240224	to improve
+0.0817844949	4 months
+0.0817627175	impact on
+0.0814854013	considered as
+0.0814383423	loss of
+0.0813537110	a total of
+0.0811011146	these patients
+0.0808609191	leading to
+0.0806504843	resulting in
+0.0803492808	to treat
+0.0802134389	history of
+0.0796490285	to demonstrate
+0.0794747979	obtained by
+0.0786564154	randomized into
+0.0780632976	hours after
+0.0779451502	the purpose of
+0.0779228085	collected from
+0.0779107326	to minimize
+0.0777835023	drug use
+0.0776121957	data on
+0.0771544484	no longer
+0.0770608405	immediately after
+0.0770354500	assessed using
+0.0770165942	chf due
+0.0760501609	associated with increased
+0.0755735613	discharged from
+0.0754323483	to define
+0.0754168828	combined with
+0.0741907900	after tavi
+0.0739255372	admitted to
+0.0737366370	of patients
+0.0736780001	to determine whether
+0.0736423128	procedure time
+0.0727462094	referred to
+0.0716205669	a non invasive
+0.0715100422	implanted with
+0.0714825442	every 6
+0.0708473528	occurrence of
+0.0703035601	the right ventricle
+0.0702852393	proportion of
+0.0698075474	an additional
+0.0697952843	a single
+0.0696043192	result in
+0.0692419460	a large
+0.0691801517	design of
+0.0690827767	this approach
+0.0689725579	participation in
+0.0686314316	determine if
+0.0685768948	5 year
+0.0683991784	assessed by
+0.0683779135	duration of
+0.0683160704	as part of
+0.0682319060	identification of
+0.0681772644	death from
+0.0675421569	from baseline to
+0.0673104329	two years
+0.0673044799	data regarding
+0.0672462264	performed at
+0.0672084182	aim of
+0.0668400325	the end of
+0.0667043192	difference in
+0.0664977682	any cause
+0.0660497037	change in
+0.0659558774	an increased
+0.0656139099	safety and efficacy of
+0.0651332123	changes in
+0.0650102128	and quality of life
+0.0649760844	shown to
+0.0649678464	discharge from
+0.0649376525	reduction in
+0.0648861709	linked to
+0.0648577911	the heart
+0.0645727546	at baseline
+0.0644286461	aimed at
+0.0644056907	in case of
+0.0643666837	information on
+0.0643107204	the device
+0.0641610928	improvements in
+0.0639241679	improvement in
+0.0639148289	the ed
+0.0639012356	allocated to
+0.0633926076	persistent or
+0.0631594450	evolution of
+0.0628537547	identified as
+0.0627447265	as per
+0.0626334892	days after
+0.0624408775	this trial
+0.0622963043	effects of
+0.0613882686	designed as
+0.0612742067	performed by
+0.0611922573	absence of
+0.0610513746	in patients with severe
+0.0609779787	the same
+0.0606594382	presence of
+0.0605171879	at least one
+0.0601568717	an icd
+0.0601304981	enrolled in
+0.0600157949	beats per
+0.0598238731	evaluation of
+0.0591851536	the follow up period
+0.0591811273	24 hours after
+0.0591096615	followed by
+0.0585376649	a pacemaker
+0.0585347322	in patients
+0.0582994919	the effect of
+0.0581967169	programmed to
+0.0580277128	two different
+0.0578228314	role of
+0.0578033150	understanding of
+0.0577230440	after surgery
+0.0570582566	to prevent
+0.0569158713	a minimum of
+0.0569158713	to participate in
+0.0568988244	the main
+0.0567229510	a sample size of
+0.0565309332	pacemaker system
+0.0562945631	but also
+0.0562095710	the use of
+0.0561270323	an effective
+0.0560562487	the aim of
+0.0557340225	any time
+0.0554348272	the number of patients
+0.0552368993	conducted at
+0.0550452063	performed during
+0.0550179744	achieved by
+0.0549155241	after implantation
+0.0546017851	affected by
+0.0545015856	the safety of
+0.0543637072	led to
+0.0541617170	relationship between
+0.0541381413	all cause
+0.0535167795	all data
+0.0535061551	indications for
+0.0530645160	this project
+0.0527447009	to avoid
+0.0527319830	usefulness of
+0.0526842999	to reduce
+0.0525698152	evaluated by
+0.0525608246	in patients with chronic
+0.0525487586	as assessed by
+0.0525391266	a series of
+0.0523119830	attached to
+0.0521988618	the procedure
+0.0519030915	assigned to
+0.0518309841	department of
+0.0515677651	to verify
+0.0515398000	over time
+0.0515246848	the first
+0.0514400184	a digital
+0.0514326325	risk of
+0.0514048353	to predict
+0.0509187771	this reason
+0.0507543875	subset of
+0.0506707685	registered as
+0.0505324178	correlate with
+0.0503620256	pathophysiology of
+0.0503138298	a fixed
+0.0502160416	an external
+0.0501694007	referred for
+0.0501037436	rate of
+0.0500286570	day before
+0.0498730584	after randomization
+0.0497775581	involved in
+0.0492923935	a variety of
+0.0490570554	other hand
+0.0487550067	on exercise
+0.0486743019	collected at
+0.0485927628	role in
+0.0484719830	thought to
+0.0484248179	12 lead
+0.0474708402	as needed
+0.0471923601	children with
+0.0471003140	approved by
+0.0470765390	12 months after
+0.0469842230	subjects with
+0.0469665372	the relationship between
+0.0468158006	the primary
+0.0467680204	this population
+0.0465548609	to confirm
+0.0464899323	1 ratio to
+0.0464719830	declaration of
+0.0463546775	treatment with
+0.0462618383	safety and effectiveness of
+0.0462193170	the past
+0.0461714002	the time of
+0.0461578719	to document
+0.0460815074	collection of
+0.0457950444	in turn
+0.0452805119	connected to
+0.0449948450	at 12 months
+0.0449444623	to conduct
+0.0447587945	response to
+0.0445258340	aiming to
+0.0444547866	the safety and effectiveness of
+0.0444076535	part of
+0.0443946040	the participant
+0.0442205119	consistent with
+0.0440789192	placed on
+0.0439349730	1 year after
+0.0439141044	pacing in patients with
+0.0438064381	combination of
+0.0437003508	the entire
+0.0436343476	doses of
+0.0435372033	to provide
+0.0435105533	to generate
+0.0434814820	during surgery
+0.0434168336	respect to
+0.0433975449	to obtain
+0.0433318123	and 12 months
+0.0433172117	year follow up
+0.0432992279	majority of
+0.0432866609	suitable for
+0.0431061849	to support
+0.0431003140	guided by
+0.0430184005	provided by
+0.0430114359	increase in
+0.0424706095	not yet
+0.0423076826	this protocol
+0.0422989192	as described
+0.0422504201	half of
+0.0420221344	implantation of
+0.0419881942	to develop
+0.0418643374	the quality of life
+0.0418118929	management of
+0.0417297956	at discharge
+0.0414644800	to determine if
+0.0412793170	the possibility
+0.0412044657	screened for
+0.0411238972	from baseline
+0.0410638696	to optimize
+0.0410283377	completion of
+0.0409284927	symptoms of
+0.0408491200	and 6 months
+0.0407285362	an estimated
+0.0407167468	criteria for
+0.0407056016	through 30
+0.0404339085	to guide
+0.0403881942	to enroll
+0.0402339901	included in
+0.0401637686	amount of
+0.0398749212	type of
+0.0398204106	to create
+0.0396346275	and 5 years
+0.0392641297	this research
+0.0390812058	opportunity to
+0.0390001417	at 1 year
+0.0389931393	the presence of
+0.0389259559	weeks after
+0.0387872344	performed on
+0.0387458040	a common
+0.0386841751	at risk
+0.0386515393	return to
+0.0385435769	deterioration of
+0.0385148805	an acute
+0.0384041878	progression of
+0.0383399227	superior to
+0.0380605119	advances in
+0.0380584981	assessment of
+0.0380387309	inferior to
+0.0379157342	and 1 year
+0.0379144939	diagnosed with
+0.0378503911	a small
+0.0378346622	living with
+0.0377849864	in fact
+0.0377539352	the head
+0.0377142511	the results of
+0.0376480683	treatment for
+0.0374976678	blinded to
+0.0374604846	a significant
+0.0374428691	option for
+0.0373953308	the same time
+0.0373831608	any other
+0.0373666883	used for
+0.0369570631	the safety and effectiveness
+0.0369285591	association with
+0.0369252309	the central
+0.0369251141	the world
+0.0368887298	an increase in
+0.0368401197	types of
+0.0367904201	range of
+0.0365571300	this prospective
+0.0364476457	up to
+0.0364089811	for patients
+0.0362233937	regard to
+0.0361440690	participate in
+0.0359369561	a maximum
+0.0358347233	access to
+0.0353702181	percentage of
+0.0352419796	as possible
+0.0350461344	the operator
+0.0342757552	many patients
+0.0340018532	and safety of
+0.0336135514	inability to
+0.0334631058	as well
+0.0332563814	a maximum of
+0.0332168323	as soon
+0.0331150080	guidelines for
+0.0330010850	to receive
+0.0328023323	reduction of
+0.0327546814	the mechanism
+0.0325855962	set to
+0.0325651881	centers in
+0.0325348402	submitted to
+0.0324503167	to facilitate
+0.0324304536	level of
+0.0323927763	performed in
+0.0323542264	to describe
+0.0323511591	to collect
+0.0323120685	in women
+0.0323101667	the need for
+0.0322129847	ability to
+0.0321620576	this period
+0.0320998632	to participate
+0.0320534197	development of
+0.0319030307	likely to
+0.0316521731	100 patients
+0.0314615945	to increase
+0.0313307571	need for
+0.0312829899	for participation
+0.0311882519	the start of
+0.0311066982	intervention for
+0.0309974395	the efficacy of
+0.0309175034	the event
+0.0308887438	the effectiveness of
+0.0308660218	of patients with
+0.0308452655	the occurrence of
+0.0307096573	discretion of
+0.0306313776	6 months after
+0.0305128869	the risk of
+0.0304701667	the treatment of
+0.0303300682	effect of
+0.0303269275	within 2
+0.0299860570	treatment of
+0.0299842363	dose of
+0.0299484731	participants with
+0.0297148682	a minimum
+0.0295234143	performed as
+0.0294701667	the incidence of
+0.0293140014	in addition to
+0.0292628427	period of
+0.0292004418	frequency of
+0.0290639046	a result
+0.0290508137	not only
+0.0290505664	implementation of
+0.0289579904	the last
+0.0289304536	activation of
+0.0289251957	scheduled for
+0.0289251219	evidence for
+0.0288740989	reported to
+0.0288043371	into two
+0.0287784333	people with
+0.0287735954	with preserved
+0.0287586899	within 24
+0.0286511125	the opportunity
+0.0285706280	the effects of
+0.0285088338	up period
+0.0284196872	limited to
+0.0284091271	a standardized
+0.0283770492	increases in
+0.0283603301	for at least
+0.0283225957	analysis of
+0.0282985157	attempt to
+0.0282390404	a final
+0.0281864814	review of
+0.0281170047	the ability to
+0.0279672853	as measured
+0.0278651593	the pathophysiology
+0.0276752510	the case of
+0.0276031623	years after
+0.0275543276	after implant
+0.0274727133	detection of
+0.0273211160	the benefits of
+0.0272889561	used to
+0.0272545337	considered to
+0.0271072691	risk for
+0.0270321578	followed for
+0.0268758368	the diagnosis
+0.0268585291	the patient's
+0.0267301154	efficacy of
+0.0267107896	to answer
+0.0266675077	therapy for
+0.0265810466	decrease in
+0.0265650209	end of
+0.0265289006	for patients with
+0.0264222411	to check
+0.0264151743	performance of
+0.0264128077	placement of
+0.0263843075	length of
+0.0263298168	to report
+0.0262776378	the development of
+0.0261567109	a major
+0.0261314478	purpose of
+0.0260566866	results in
+0.0259616797	in response to
+0.0258661804	to date
+0.0258565077	comparison of
+0.0257229206	the goal of
+0.0254094287	but not
+0.0253434202	a double
+0.0253383925	the quality of
+0.0252738364	to complete
+0.0252432195	to measure
+0.0251651154	evidence of
+0.0249874518	diagnosis of
+0.0249399227	predictors of
+0.0249349657	the patient to
+0.0249282468	applied to
+0.0247224685	a multicenter
+0.0246980548	of cases
+0.0246664066	benefit of
+0.0245352506	infusion of
+0.0244752283	the absence of
+0.0244450475	of interest
+0.0244004578	of life
+0.0243719703	these two
+0.0243641439	known as
+0.0242776378	the impact of
+0.0242466760	patterns of
+0.0242136940	to estimate
+0.0242117874	the rate of
+0.0241867436	the implantation of
+0.0240993188	point of
+0.0240839709	patients per
+0.0240775696	prevention of
+0.0240355363	during follow up
+0.0239863169	this time
+0.0239774601	used in
+0.0239479177	used as
+0.0238534103	the management of
+0.0238307712	invited to
+0.0237136940	to sign
+0.0236946259	method of
+0.0236436793	objective of
+0.0235763205	among patients
+0.0235413355	the change in
+0.0234752283	the diagnosis of
+0.0234482712	results of
+0.0233184541	the role of
+0.0232717893	a strategy
+0.0232632331	rates of
+0.0231989985	the amount of
+0.0231989985	the degree of
+0.0231117032	to allow
+0.0230863922	seems to
+0.0230206828	the duration of
+0.0229650663	impact of
+0.0228995327	similar to
+0.0228824958	quality of
+0.0228784541	the number of
+0.0228219336	implanted in
+0.0227829206	the percentage of
+0.0227779507	along with
+0.0227533463	at baseline and
+0.0227492500	prevalence of
+0.0226592909	patients without
+0.0226479273	considered in
+0.0226229438	administration of
+0.0225740989	evaluated in
+0.0224582622	cohort of
+0.0224479273	characteristics of
+0.0221728077	measures of
+0.0221565142	use of
+0.0221446872	required for
+0.0220632331	needed to
+0.0220376615	the lack of
+0.0220194797	the objective of
+0.0220008940	society of
+0.0219292466	periods of
+0.0218484165	the database
+0.0218105029	with respect
+0.0217852733	a number of
+0.0217829206	the prevalence of
+0.0217739979	the majority
+0.0217729273	approach for
+0.0217640782	randomised to
+0.0216861464	the benefit of
+0.0216734165	the aim
+0.0216336832	accuracy of
+0.0215402279	state of
+0.0215196872	knowledge of
+0.0214937750	well as
+0.0214344069	the type of
+0.0213869278	course of
+0.0212200831	the occurrence
+0.0210849990	location of
+0.0210120360	severity of
+0.0210065361	of latest
+0.0209958809	the course of
+0.0208593444	as compared to
+0.0207736853	of care for
+0.0207729273	considered for
+0.0206283463	the assessment of
+0.0206045940	a reduction
+0.0206045664	a novel
+0.0204973440	possibility of
+0.0204053005	the ability
+0.0203522096	hospitalization for
+0.0203400831	the effect
+0.0202348582	seen at
+0.0202253191	least one
+0.0202168172	evaluated for
+0.0201616797	the identification of
+0.0201295290	for outdoor
+0.0200413355	the level of
+0.0200239179	in case
+0.0200229273	sites in
+0.0200162891	a range of
+0.0199479273	benefits of
+0.0197881041	composite of
+0.0197735683	center for
+0.0197718897	onset of
+0.0197651167	the majority of
+0.0197239179	in children
+0.0196754179	moderate to
+0.0195033272	measurement of
+0.0194796061	required to
+0.0192874530	prognosis of
+0.0191728077	improvement of
+0.0190617436	a period of
+0.0189770140	a retrospective
+0.0189719374	same time
+0.0189698772	on patients with
+0.0189616797	the safety and
+0.0188796978	an indication
+0.0188521654	the literature
+0.0188283463	the analysis of
+0.0188233602	difficult to
+0.0186861464	a reduction in
+0.0186242650	collected in
+0.0186128077	episodes of
+0.0185608955	levels of
+0.0183155947	the purpose
+0.0182311635	placed in
+0.0182226332	to decrease
+0.0182068747	a third
+0.0181497257	10 patients
+0.0181368054	degree of
+0.0181015517	feasibility of
+0.0180413355	the feasibility of
+0.0179969599	risks of
+0.0179032669	made by
+0.0178602955	insertion of
+0.0178202418	willing to
+0.0177735683	outcome of
+0.0176213627	choice of
+0.0175070182	occur in
+0.0174440899	effectiveness of
+0.0174124530	aims to
+0.0170643132	this pilot
+0.0170588969	significance of
+0.0170039059	factors for
+0.0169318986	conducted in
+0.0168153520	and efficacy of
+0.0168153520	the evaluation of
+0.0166403515	order to
+0.0166207706	and effectiveness of
+0.0164047138	planned to
+0.0161746856	the incidence
+0.0161605701	a new
+0.0161099319	care for
+0.0159491824	to make
+0.0157962930	first pacemaker
+0.0156965494	every 3
+0.0155196872	goal of
+0.0152416642	the presence
+0.0152411096	and quality of
+0.0149229949	time of
+0.0148150831	the department
+0.0147019962	20 patients
+0.0146783017	indicated for
+0.0145448262	the progression
+0.0144926242	present in
+0.0144417387	reported in
+0.0141764535	value of
+0.0140960189	by means
+0.0139980188	series of
+0.0139980188	result of
+0.0139878704	as compared
+0.0139109597	particularly in
+0.0138823883	especially in
+0.0136892933	the next
+0.0135025077	to undergo
+0.0134530404	to show
+0.0130160978	found to
+0.0129306560	to give
+0.0128175021	activities of
+0.0124570068	known to
+0.0123965963	causes of
+0.0122721935	necessary to
+0.0120673797	subject to
+0.0120615523	a second
+0.0120388250	done in
+0.0119510642	necessary for
+0.0119502232	in terms
+0.0119303132	outside of
+0.0118965963	to take
+0.0117980188	case of
+0.0117721935	to help
+0.0114530404	allow for
+0.0111997583	seen in
+0.0111593825	minimum of
+0.0110343825	means of
+0.0109906267	an informed
+0.0101993435	the need
+0.0097790135	followed at
+0.0096137037	an increase
+0.0094713212	year after
+0.0089168302	terms of
+0.0087918302	addition to
+0.0087790135	described in

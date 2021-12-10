@@ -1,0 +1,72 @@
+id,label
+0,Acute Coronary Syndrome
+1,Angina Pectoris
+2,Aortic Valve Disease
+3,Aortic Valve Insufficiency
+4,Aortic Valve Prolapse
+5,Aortic Valve Stenosis
+6,Aortopulmonary Septal Defect
+7,Arrhythmias
+8,Arrhythmogenic Right Ventricular Dysplasia
+9,Atrial
+10,Atrial Fibrillation
+11,Atrial Flutter
+12,Atrial Premature Complexes
+13,Atrioventricular Block
+14,Barth Syndrome
+15,Bradycardia
+16,Carcinoid Heart Disease
+17,Cardiac
+18,Cardiac Conduction System Disease
+19,Cardiac Tamponade
+20,Cardiomyopathies
+21,Congenital
+22,Coronary Artery Disease
+23,Coronary Disease
+24,Coronary Occlusion
+25,Diastolic
+26,Double Outlet Right Ventricle
+27,Endocarditis
+28,Glycogen Storage Disease Type IIb
+29,Heart Arrest
+30,Heart Block
+31,Heart Defects
+32,Heart Failure
+33,Heart Septal Defects
+34,Heart Valve Diseases
+35,Heart Valve Prolapse
+36,Hypertrophy
+37,Hypoplastic Left Heart Syndrome
+38,Left
+39,Left Ventricular
+40,Long QT Syndrome
+41,Mitral Valve Insufficiency
+42,Mitral Valve Prolapse
+43,Mitral Valve Stenosis
+44,Myocardial Infarction
+45,Myocardial Ischemia
+46,Myocardial Reperfusion Injury
+47,Myocarditis
+48,Out-of-Hospital Cardiac Arrest
+49,Pericardial Effusion
+50,Pulmonary Heart Disease
+51,Quadricuspid Aortic Valve
+52,Rheumatic Heart Disease
+53,Right
+54,Right Ventricular
+55,ST Elevation Myocardial Infarction
+56,Sick Sinus Syndrome
+57,Tachycardia
+58,Takotsubo Cardiomyopathy
+59,Torsades de Pointes
+60,Tricuspid Valve Insufficiency
+61,Tricuspid Valve Prolapse
+62,Tricuspid Valve Stenosis
+63,Univentricular Heart
+64,Ventricular
+65,Ventricular Dysfunction
+66,Ventricular Fibrillation
+67,Ventricular Flutter
+68,Ventricular Outflow Obstruction
+69,Ventricular Premature Complexes
+70,Williams Syndrome

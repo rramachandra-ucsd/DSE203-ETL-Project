@@ -1,0 +1,9 @@
+id,label
+0,"Active, not recruiting"
+1,Completed
+2,Enrolling by invitation
+3,Not yet recruiting
+4,Recruiting
+5,Terminated
+6,Unknown status
+7,Withdrawn

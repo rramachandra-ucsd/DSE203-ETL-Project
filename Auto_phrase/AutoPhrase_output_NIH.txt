@@ -1,0 +1,2511 @@
+0.9634972675	hot flashes
+0.9622164862	air pollution
+0.9617398487	cardiogenic shock
+0.9615220001	friedreich's ataxia
+0.9597998829	ejection fraction
+0.9597724162	hydrogen sulfide
+0.9597531033	dilated cardiomyopathy
+0.9591631151	substance abuse
+0.9584471609	necrotizing enterocolitis
+0.9572024517	african americans
+0.9561502462	african american
+0.9558748074	south asian
+0.9555284280	posttraumatic stress disorder
+0.9549299235	emergency department
+0.9548174320	circadian rhythms
+0.9537297055	atrial fibrillation
+0.9531635538	extracellular matrix
+0.9531390286	adenylyl cyclase
+0.9527186473	artificial intelligence
+0.9515079509	lineage commitment
+0.9512229834	south africa
+0.9512156394	hypertrophic cardiomyopathy
+0.9498817924	skeletal muscle
+0.9492318756	south asians
+0.9488344490	magnetic resonance
+0.9487259602	obstructive sleep apnea
+0.9469928605	myotonic dystrophy
+0.9462157064	myocardial infarction
+0.9457049913	hypoplastic left heart syndrome
+0.9449183420	histone deacetylases
+0.9436176378	smoking cessation
+0.9433954224	machine learning
+0.9433361080	genetic variation
+0.9428135930	hispanics latinos
+0.9425509601	mixed chimerism
+0.9421555394	dna methylation
+0.9418743412	pulmonary hypertension
+0.9418319348	spinal neuraxial
+0.9415303764	transcutaneous vagal nerve stimulation
+0.9408746961	bipolar disorder
+0.9403349344	cardiopulmonary bypass
+0.9393225311	nitric oxide
+0.9390043238	alzheimer's disease
+0.9384612770	deep learning
+0.9382005548	air quality
+0.9376538898	bicuspid aortic valve
+0.9363130288	fatty acid
+0.9357604985	mineralocorticoid receptor
+0.9354560489	energy balance
+0.9351890241	cardiovascular disease
+0.9343315981	transcription factor
+0.9341814818	stem cells
+0.9338212995	smooth muscle
+0.9335918288	stem cell
+0.9331392281	thyroid hormone
+0.9320710200	apple cds
+0.9317837462	mesenchymal stem cell
+0.9316134406	pharyngeal arch
+0.9313469428	aortic valve
+0.9313437335	gap junction
+0.9305898983	cell death
+0.9302212898	precision medicine
+0.9301968956	metabolic syndrome
+0.9293632838	heart rate variability
+0.9291580934	left ventricular
+0.9287273918	transplant rejection
+0.9284752638	sleep apnea
+0.9279778735	ion channels
+0.9278151091	fatty acids
+0.9276459478	blood pressure
+0.9273371685	acute myocardial infarction
+0.9268823680	ion channel
+0.9258266759	histone deacetylase
+0.9253384126	diastolic dysfunction
+0.9251477364	congenital heart disease
+0.9249493530	physical activity
+0.9245523179	potassium channel
+0.9243369833	tricuspid valve
+0.9232920585	signal transduction
+0.9230277551	progenitor cell
+0.9209825612	weight loss
+0.9197192857	radiation therapy
+0.9193046778	cholesterol transport
+0.9189396807	coronary heart disease
+0.9187670823	mechanisms underlying
+0.9186762477	bypass graft
+0.9185932046	familial hypercholesterolemia
+0.9176266340	decision making
+0.9171759982	breast cancer
+0.9165207068	sedentary behavior
+0.9164308397	coordinating center
+0.9163757762	outflow tract
+0.9163453439	circadian clock
+0.9162804161	lysophosphatidic acid
+0.9162622021	real world
+0.9161714333	sudden cardiac death
+0.9160169293	duchenne muscular dystrophy
+0.9157118091	left atrial abnormality
+0.9153576916	nadph oxidase
+0.9152880025	diversity supplement
+0.9137787663	focal sources
+0.9134121099	minimally invasive
+0.9131808964	bone marrow
+0.9127937132	preterm infants
+0.9125979488	systems biology
+0.9124883932	ryanodine receptor
+0.9124655645	regenerative medicine
+0.9123542547	lower extremity
+0.9120475276	research career scientist award application
+0.9110034598	coronary artery
+0.9107752199	mae west
+0.9103728423	neural crest
+0.9102232385	gene expression
+0.9096711258	sickle cell disease
+0.9088704960	administrative supplement
+0.9087792384	testicular cancer
+0.9086468085	brown adipose tissue
+0.9081935284	chronic pain
+0.9080387484	allhat trial participants
+0.9079081995	heart failure
+0.9073331552	great lakes
+0.9071275741	reperfusion injury
+0.9064842822	acute coronary syndrome
+0.9037531051	cardiovascular health
+0.9024638733	stromal cell
+0.9023710276	ischemic heart disease
+0.9021663955	post infarction
+0.9020976116	infective endocarditis
+0.9013808306	insulin resistance
+0.9010724605	adipose tissue
+0.9002164779	myh7 mutations
+0.9001260062	ethnically diverse
+0.8999228623	energy metabolism
+0.8997842128	risk prediction
+0.8997806514	clinical trial
+0.8993004259	ncanda research project site
+0.8989525481	mental illness
+0.8985569267	implantable cardioverter defibrillators
+0.8983895668	circadian misalignment
+0.8979940275	membrane stability
+0.8975560522	postpartum women
+0.8973638502	post traumatic stress disorder
+0.8968121619	clonal hematopoiesis
+0.8965852343	young adult
+0.8962952745	pulmonary arterial hypertension
+0.8960181033	rev erb
+0.8957231748	damaged mitochondria
+0.8956670046	neuropathic pain
+0.8955652550	membrane proteins
+0.8954695949	ohd pride
+0.8953865937	rgs proteins
+0.8953114419	leadership administrative core
+0.8951018186	assessing toxicant properties
+0.8948806070	cortical bone stem
+0.8948204047	dna damage
+0.8946762678	congenital heart defects
+0.8945138988	bright light
+0.8944663071	sex differences
+0.8943687725	administrative core
+0.8941767989	alzheimer disease
+0.8941098996	young children
+0.8937391964	spinal cord injury
+0.8927499265	genomic basis
+0.8925395775	preterm birth
+0.8922175915	white matter
+0.8914933061	coronary collateral growth
+0.8912069026	innate immune
+0.8908277094	branched chain amino acids
+0.8906158648	barth syndrome
+0.8906013982	randomized controlled trial
+0.8904485128	gene therapy
+0.8903494911	cell cycle
+0.8902614768	phase iib
+0.8901268724	gene regulatory
+0.8898038659	signaling pathways
+0.8893901562	glucose metabolism
+0.8888837921	body weight
+0.8885594235	hedgehog signaling
+0.8885520531	progenitor cells
+0.8880873662	cardiac arrest
+0.8880498167	viral infection
+0.8879810780	cardiomyocyte maturation
+0.8875846583	mechanistic insights
+0.8872302968	implementation strategy
+0.8871046018	health disparities
+0.8870551339	ischemic damage
+0.8868953386	shared decision making
+0.8868516856	heart disease
+0.8867748717	advancing psychosocial
+0.8867741571	cross talk
+0.8865305574	retinal ganglion cells
+0.8861146546	chronic kidney disease
+0.8859535285	longitudinal study
+0.8856353228	animal models
+0.8851367976	decision support
+0.8846579171	tissue engineering
+0.8845227170	left ventricular hypertrophy
+0.8844715172	sodium channels
+0.8834671518	chagas disease
+0.8832831924	uremic cardiomyopathy
+0.8832800311	tissue engineered vascular graft
+0.8832391789	twin study
+0.8829503757	positive psychology intervention
+0.8824817594	circadian timing
+0.8818508422	liver injury
+0.8815351375	oxidative stress
+0.8815272714	ct angiography
+0.8798500552	channel gating
+0.8790994406	genome editing
+0.8780590776	therapeutic target
+0.8777691983	pediatric heart network
+0.8777361333	ancillary study
+0.8777291194	cardiomyocyte proliferation
+0.8776261236	dna repair
+0.8765143831	mechanisms regulating
+0.8760536820	clinical centers
+0.8757619921	rheumatic heart disease
+0.8752562063	functional status
+0.8749519665	mental health
+0.8749355455	diet quality
+0.8743667061	sterol metabolism
+0.8735431695	striated muscle
+0.8732231354	patients undergoing
+0.8731797838	myosin light chain
+0.8731741819	small molecule
+0.8730092076	shear stress
+0.8729562700	patient specific
+0.8726264022	animal model
+0.8723631940	older women
+0.8715111150	structural basis
+0.8711860213	matrix hydrogel
+0.8708768422	sudden cardiac arrest
+0.8707207434	calcium pump
+0.8706053309	clinical research centers
+0.8704921933	cohort study
+0.8704215309	alternative splicing
+0.8703652883	prognostic markers
+0.8701574242	data management
+0.8697696839	computational modeling
+0.8696693397	primary care
+0.8696276508	diabetic cardiomyopathy
+0.8693979877	tissue engineered vascular grafts
+0.8691903678	functional genomics
+0.8688726390	ventricular tachyarrhythmias
+0.8686911011	electronic health record
+0.8683385120	intensive care
+0.8678063848	lung cancer
+0.8674699659	high throughput screening
+0.8670462979	rod cone gap junctions initiate
+0.8669067222	heart rate
+0.8665263837	donor kidney
+0.8659535953	food timing
+0.8657454543	membrane potential
+0.8654722679	cardiovascular events
+0.8651952791	research excellence
+0.8647452602	high performance
+0.8647396431	hcn channels
+0.8646790691	allograft rejection
+0.8645549082	pulmonary valve
+0.8644119334	pathological cardiac hypertrophy
+0.8632533320	sinoatrial node
+0.8629983321	myocardial ischemia
+0.8629494091	vascular smooth muscle
+0.8628734359	genetic dissection
+0.8627999071	quality control
+0.8626058323	ventricular tachycardia
+0.8624896725	sleep disturbance
+0.8623465487	hiv infection
+0.8623297982	regenerative potential
+0.8619625502	primary cilia
+0.8619548521	chagas cardiomyopathy
+0.8613715970	cardiovascular diseases
+0.8604749054	derived stem cells
+0.8602638305	pluripotent stem cells
+0.8602554690	autonomic dysfunction
+0.8595643064	cvd risk
+0.8588402194	exercise training
+0.8584753128	alzheimers disease
+0.8584092764	dystrophic cardiomyopathy
+0.8583513671	reactive oxygen species
+0.8582618998	therapeutic potential
+0.8579574879	einstein aging study
+0.8578939790	sleep disorders
+0.8577001657	cardiac electrophysiology
+0.8569000288	immune checkpoint
+0.8567298080	protein kinase
+0.8563918384	administrative coordinating center
+0.8561071760	racial ethnic
+0.8560823516	young adults
+0.8560212505	social support
+0.8553646603	ischemic injury
+0.8552798737	regulatory elements
+0.8551690533	chronic renal insufficiency cohort
+0.8550547019	tobacco smoke
+0.8547965815	pet imaging
+0.8543702671	gene transfer
+0.8542559517	infarcted heart
+0.8542016133	cardiomyopathy genomes project
+0.8535354402	heart regeneration
+0.8534090129	nuclear receptors
+0.8532853722	early childhood
+0.8531458350	mouse models
+0.8524812727	left heart syndrome
+0.8515500744	rhythm alterations
+0.8514693715	mae west score
+0.8509586929	pancreatic cancer
+0.8505882795	inflammatory response
+0.8504242559	symptom management
+0.8501455753	drug discovery
+0.8499641523	circadian rhythm
+0.8498349878	improving post
+0.8495076455	pulmonary vascular morphology
+0.8494050916	ischemic myocardium
+0.8489590946	gut microbiota
+0.8489151363	single ventricle
+0.8487189527	risk factors
+0.8485647033	structure function relationships
+0.8480535062	food intake
+0.8473692396	igf atherosclerosis in risk communities
+0.8461523684	obesity health disparities research pride program
+0.8455481617	lipid transport
+0.8454877173	ventricular arrhythmias
+0.8454416736	lipid metabolism
+0.8452493931	sodium channel
+0.8451722039	cardiac rehabilitation
+0.8444997087	early detection
+0.8443164638	genome sequencing
+0.8442668634	sympathetic denervation
+0.8441852682	insulin sensitivity
+0.8435514667	heart transplantation
+0.8430531921	transplantation tolerance
+0.8425604817	coronary endothelial
+0.8422467548	mitochondrial calcium uptake
+0.8422451322	neural circuits
+0.8417096056	high fat diet
+0.8413235353	core study operations
+0.8413206053	super resolution
+0.8412143561	cardiovascular lineages
+0.8410844834	cognitive impairment
+0.8408015712	ischemic heart
+0.8404401836	diseased heart
+0.8394633121	transplant tolerance
+0.8394109953	nuclear receptor rev erb
+0.8392120117	systems modeling
+0.8391592483	adrenergic receptor
+0.8391275420	gordon research
+0.8390780386	single cell
+0.8390572538	maternal diabetes
+0.8390074313	er stress
+0.8389112985	physiological monitoring
+0.8386934293	risk classification
+0.8386861168	pressure overload
+0.8381782843	fatty acid metabolism
+0.8380458548	mitral valve
+0.8379440236	adverse effects
+0.8376229861	myocardial repair
+0.8375226988	high throughput
+0.8373615622	mitochondrial dna
+0.8373462660	childhood obesity
+0.8370717989	rural population
+0.8366432634	salt sensitive hypertension
+0.8366199352	hypoxic ischemic
+0.8366121916	cardiac fibrosis
+0.8365295744	mitochondrial dynamics
+0.8358227070	regulatory network
+0.8355829574	circadian disruption
+0.8352616726	hypertensive adults
+0.8347729544	minority populations
+0.8346624655	hiv infected
+0.8344433011	endothelial cells
+0.8344245346	cryo em
+0.8341918149	pacemaker neurons
+0.8338468140	coronary microvascular
+0.8336058997	data science
+0.8335249717	female veterans
+0.8334329749	diffusion tensor
+0.8332824404	exercise capacity
+0.8328825610	protein degradation
+0.8327141193	total artificial heart
+0.8326829263	mitochondrial uniporter
+0.8325710834	single cell sequencing
+0.8320145018	transplant outcomes
+0.8319095314	ischemic stroke
+0.8318157292	organ transplantation
+0.8315264121	vascular calcification
+0.8312433654	cortical bone stem cell
+0.8308515550	spirrit hfpef
+0.8306864966	metabolomic profiles
+0.8302549788	redox regulation
+0.8298372930	cell differentiation
+0.8296811634	estrogen receptor
+0.8296484538	blood pressure patterns
+0.8296107913	stress reactivity
+0.8295573467	childhood cancer
+0.8295028584	hematopoietic stem cell
+0.8294983920	cholesterol metabolism
+0.8289165148	exercise intervention
+0.8283336776	early embryonic development
+0.8283074134	camkii activation
+0.8265387513	myocardial infarct
+0.8264453007	chd risk
+0.8261074211	physical activity intervention
+0.8258476878	pcsk9 inhibition
+0.8253584068	endothelial dysfunction
+0.8251649713	acme hiv
+0.8250765669	ultra low
+0.8245398740	regulatory mechanisms
+0.8241262133	arsenic exposure
+0.8239191971	post mi
+0.8238969507	gene regulatory network
+0.8230668466	retinoic acid
+0.8228112311	emotion reactivity
+0.8227641922	contractile function
+0.8221525071	regulatory networks
+0.8218312191	organ transplant
+0.8212764585	receptor activation
+0.8209977811	genetic architecture
+0.8208803628	intracellular calcium
+0.8207878840	black women
+0.8207231841	mri guided
+0.8204525675	cancer patients
+0.8203912884	sex specific
+0.8198370917	screening tool
+0.8196491866	image guided
+0.8193585737	coronary disease
+0.8191278830	systolic heart failure
+0.8190844824	field center
+0.8188758210	field center core study operations
+0.8186721966	improving outcomes
+0.8184646043	ischemic cardiomyopathy
+0.8177338374	derived cardiomyocytes
+0.8172914138	coronary angiogenesis
+0.8172329227	mechanistic studies
+0.8169846476	study characterizing
+0.8154510213	patient specific induced pluripotent stem
+0.8152906267	developmental disorders
+0.8152889621	hospital cardiac arrest
+0.8151322176	stem cell derived
+0.8149964393	ischemia reperfusion injury
+0.8149952324	cardiac regeneration
+0.8149229489	hypertensive disorders
+0.8147971901	low energy
+0.8146714271	research program
+0.8145997791	management intervention
+0.8140981748	tissue engineered vascular graft performance
+0.8140445717	stem cell transplantation
+0.8138756744	cardiac arrhythmia
+0.8137949796	clinical outcome
+0.8136308171	viral myocarditis
+0.8127447628	calcium channels
+0.8126710417	older adults
+0.8124074798	wnt signaling
+0.8116636280	optical pacing
+0.8114339208	brain injury
+0.8110371063	scientific core
+0.8107597400	vascular endothelial
+0.8107191246	transcription factors
+0.8105135821	cell fate
+0.8104619226	mobile health
+0.8103430946	dietary intervention
+0.8101933851	dominant negative
+0.8089648595	structural birth defects
+0.8088823839	neurodevelopmental outcomes
+0.8084510201	energy homeostasis
+0.8082243565	metabolic phenotyping
+0.8082161736	guided therapy
+0.8078569557	white matter injury
+0.8077863756	bromodomain protein
+0.8076027144	circadian clocks
+0.8075413402	cardiovascular risk
+0.8073324183	heart valves
+0.8071459589	cardioprotective effects
+0.8070477448	cardiac allograft vasculopathy
+0.8070424503	barrier function
+0.8067860627	gene regulatory mechanisms
+0.8065632830	human pluripotent stem cell derived cardiomyocytes
+0.8065178789	heart field development
+0.8059527242	clinical center
+0.8055772390	multiscale modeling
+0.8053384659	free breathing
+0.8050163942	genome wide
+0.8047548573	pulmonary vascular disease
+0.8046768151	circadian clock disruption
+0.8045351243	protein acetylation
+0.8045349006	muscular dystrophy
+0.8044627084	cancer survivors
+0.8041024842	transcriptional regulation
+0.8035935576	cardiac repair
+0.8028899739	gene environment
+0.8028430676	cell surface
+0.8028193702	depressive symptoms
+0.8027148601	microvascular rarefaction
+0.8026995923	continuous flow total artificial heart
+0.8025923158	maternal depression
+0.8021617420	diffusion tensor mri
+0.8020472437	coronary artery disease
+0.8018074395	health outcomes
+0.8017217867	cardiac arrhythmias
+0.8013440333	ventricular remodeling
+0.8012023187	myocardial perfusion
+0.8003627770	atrial fibrillation detection
+0.8003576699	mediated autophagy
+0.8002382158	dynamic prediction
+0.7998791142	doxorubicin cardiotoxicity
+0.7998152812	coronary vascular
+0.7996179236	ct imaging
+0.7992934523	tissue characterization
+0.7989430428	computed tomographic insights into pulmonary hypertension
+0.7987719225	cardiac resynchronization
+0.7986545875	metabolic reprogramming
+0.7982437198	ventriculo arterial coupling
+0.7981258757	mind body
+0.7978725138	cardiac pacemaker
+0.7972126760	risk factor
+0.7970865489	alzheimer's disease pathogenesis
+0.7965663985	organ transplant rejection
+0.7965139546	cardiac remodeling
+0.7963406318	phenotyping core
+0.7959291531	clock gene
+0.7957356510	human myocardium
+0.7955140852	sudep risk
+0.7951182133	glucose homeostasis
+0.7949741262	vascular graft
+0.7945815768	functional analysis
+0.7941035037	light chain
+0.7935779600	cardiometabolic health
+0.7934101590	tissue engineered
+0.7932009231	electrical stimulation
+0.7930254224	beta arrestin biased
+0.7929361982	atrial cardiomyocyte
+0.7924186951	large animal
+0.7922931648	zebrafish sleep
+0.7921602075	long acting
+0.7918213828	blood flow
+0.7916763454	adverse outcomes
+0.7914576673	failing hearts
+0.7911842074	human cardiogenesis
+0.7910024402	cells mediate
+0.7907991566	pediatric cardiac surgery
+0.7907054615	adrenergic receptor signaling
+0.7904148657	congestive heart failure
+0.7903257140	diabetic hearts
+0.7893615716	cardiometabolic risk
+0.7890703727	calcium exchange
+0.7888806117	data coordinating center
+0.7885696246	genotype phenotype
+0.7883634344	blood pressure regulation
+0.7880476146	cardiomyocyte differentiation
+0.7877193518	graft survival
+0.7876821024	reprogramming strategies
+0.7874933641	cardio renal
+0.7874257394	ischemia reperfusion
+0.7873143451	vascular disease
+0.7870379386	potential therapies
+0.7866312099	trial participants
+0.7866032719	prospective study
+0.7864867779	high resolution
+0.7859333513	lipid lowering
+0.7856837474	tissue repair
+0.7851168634	healthy aging
+0.7849293207	cardiac surgery
+0.7845159191	cardiac allograft rejection
+0.7843130073	preserved ejection fraction
+0.7841598779	mechanisms mediating
+0.7841219295	post myocardial infarction
+0.7833728118	heart valve
+0.7832817176	derived exosomes
+0.7832578651	pediatric patients
+0.7831580985	dementia caregivers
+0.7830747875	allograft tolerance
+0.7828221167	cell derived cardiomyocytes
+0.7827257350	blood pressure control
+0.7823662208	treatment related cardiotoxicity
+0.7822530003	myocardial ischemia reperfusion
+0.7819344118	clinical research
+0.7817628536	circadian clock output
+0.7817463302	drug therapy
+0.7812978576	genetically engineered
+0.7810153387	cardiomyopathy mutations
+0.7806005239	circadian regulated aging physiologies
+0.7804813218	arterial inflammation
+0.7803209135	cardiac hypertrophy
+0.7802995605	rna processing
+0.7801526244	age related
+0.7801404699	iheart trial
+0.7792652556	muscle dysfunction
+0.7789842341	multi scale
+0.7788186929	beta cell
+0.7783119715	sleep extension
+0.7782237658	blood lipids
+0.7780558997	clinical outcomes
+0.7759884132	birth defects
+0.7758565304	biological pacemakers
+0.7751374195	brain gut
+0.7750487917	artery disease
+0.7750253620	multi omics
+0.7747888709	collaborative research
+0.7745888442	breast cancer survivors
+0.7740230408	low cost
+0.7737910981	comparative effectiveness
+0.7737046056	disease modeling
+0.7736185116	heart transplant rejection
+0.7735888809	magnetic resonance imaging
+0.7735620885	signaling axis
+0.7732071425	cardiac pathophysiology
+0.7731967651	systems pharmacology
+0.7730571091	autonomic function
+0.7727453889	mechanisms linking
+0.7716708616	exercise induced
+0.7714511288	low dose
+0.7704520091	animal core
+0.7698498609	developing nonmuscle
+0.7696333349	valve development
+0.7693758692	therapeutic interventions
+0.7691472681	adult health
+0.7690151163	cardiac magnetic resonance imaging
+0.7689937285	platelet function
+0.7684506425	hepatic transcription
+0.7683221440	calcium signaling
+0.7678164308	mechanisms governing
+0.7670987595	mixed methods
+0.7670112620	research center
+0.7660720831	physiology core
+0.7653931359	heart transplant
+0.7640247033	administration core
+0.7640172939	atrial arrhythmias
+0.7637934100	prenatal stress
+0.7636894095	ventricular dysfunction
+0.7634863026	adult onset
+0.7629055591	alcohol induced
+0.7628295152	excitable cells
+0.7626967380	therapeutic targets
+0.7626121147	ischemia induced
+0.7622018096	short term
+0.7619869026	engineered cardiac
+0.7619827943	quantitative mri
+0.7619608861	mechanisms controlling
+0.7608665416	induced cardiotoxicity
+0.7597862191	arrhythmia mechanisms
+0.7596808242	feasibility study
+0.7594733145	experienced military sexual trauma
+0.7586660932	radiation induced
+0.7576237350	murine heart
+0.7574357114	randomized trial
+0.7569523168	early developmental
+0.7567933661	vascular homeostasis
+0.7566063985	cardiac spect
+0.7562426587	large scale
+0.7560198976	metabolic signatures
+0.7559901478	failing heart
+0.7553299387	calcium release
+0.7551419056	rat heart
+0.7551357671	circadian rhythm disorders
+0.7551023976	fetal programming
+0.7544904491	induced pluripotent stem cell
+0.7539093423	activated receptor
+0.7538363277	pacemaker cell
+0.7534205315	injury response
+0.7533140411	prognostic significance
+0.7529698563	cardiac progenitor
+0.7529157303	cardiac allograft tolerance
+0.7528831767	ventricular function
+0.7526711773	multi ethnic
+0.7511325062	long term
+0.7507880108	multi modal
+0.7495518592	cardiovascular disease prevention
+0.7491950244	age dependent
+0.7491076883	ventricular wall
+0.7487371089	photic signaling
+0.7484978216	metabolic effects
+0.7483220464	cardiac sodium channel
+0.7475090333	cardiomyocyte cell cycle activity
+0.7473981173	channel dysfunction
+0.7470998291	stem cell mediated
+0.7466141960	pilot study
+0.7461331043	maternal obesity
+0.7458162145	environment interactions
+0.7457951858	gut microbial
+0.7457878490	genetic analysis
+0.7457208157	cardiomyocyte cell cycle
+0.7453400849	risk reduction
+0.7449909035	cardiac myofibroblasts
+0.7447888000	protein quality
+0.7444837075	sleep drive
+0.7444081638	mitochondrial calcium
+0.7439473281	cardiovascular risk factors
+0.7438104655	label free
+0.7436908771	12h clock
+0.7434098736	high risk
+0.7434091605	assessment core
+0.7433981222	genetic studies
+0.7432983998	home based
+0.7432183177	cardiometabolic function
+0.7431142415	multi omic
+0.7430964379	neonatal cardiac
+0.7422064626	cardiac myocytes
+0.7417936181	liver circadian clock
+0.7413972024	chronic myocardial infarction
+0.7403410308	pediatric heart network clinical research
+0.7395238880	cardiac dysfunction
+0.7388637476	pre hospital
+0.7386304481	body temperature
+0.7383192841	cardiovascular disease risk
+0.7382087084	genomics core
+0.7381496762	stroke risk
+0.7379890639	post translational
+0.7363215197	cardiac morphogenesis
+0.7358325009	cardiomyocyte specific
+0.7351066783	heart defects
+0.7349229158	emotion regulation
+0.7348399875	traumatic stress
+0.7346849990	vascular dysfunction
+0.7339300420	chronic disease
+0.7338199301	cardiac muscle
+0.7334149801	imaging core
+0.7329494349	sodium calcium
+0.7320923489	functional consequences
+0.7317366126	coronary microvascular disease
+0.7316346638	diabetes induced
+0.7314412553	receptor signaling
+0.7297992896	deciphering mechanisms
+0.7293966050	maternal fetal
+0.7284850376	post transcriptional
+0.7283345757	cardiac power
+0.7279491202	heart allograft
+0.7278385542	cardiorespiratory fitness
+0.7265764849	arrhythmogenic cardiomyopathy
+0.7264185839	post ischemic
+0.7263826729	cobre diabetes
+0.7254940898	peri procedural
+0.7253906937	vascular aging
+0.7242869367	allograft vasculopathy
+0.7233602911	functional mri
+0.7229007040	structure function
+0.7227651633	pathological cardiac remodeling
+0.7225899256	valve disease
+0.7217926045	image based
+0.7208995267	cardiac tissue
+0.7208195315	kidney disease
+0.7202337252	cardiac ryanodine receptor
+0.7189798014	familial dilated cardiomyopathy
+0.7186103681	stress response
+0.7184476390	cardiac recovery
+0.7175093009	critical congenital heart disease
+0.7173616876	cardiometabolic disease
+0.7164950350	cardiovascular mri
+0.7159262452	role of glial circadian clock dysfunction
+0.7155514048	congenital heart
+0.7155116474	anthracycline related
+0.7132572191	cardiac mri
+0.7126268714	mitochondrial dysfunction
+0.7118713672	heart formation
+0.7113616164	cardiac amyloidosis
+0.7108319623	mitochondrial function
+0.7105529589	metabolic remodeling
+0.7101436222	mitochondrial bioenergetics
+0.7069552592	heart development
+0.7067865095	african american women
+0.7053829809	cardiac function
+0.7052506669	muscle cell
+0.7048243183	clinical core
+0.7039611481	multi level
+0.7033161848	vascular remodeling
+0.7030368161	correction of congenital heart defects
+0.7028525637	deep phenotyping
+0.7027027098	mobile health intervention
+0.7025199956	human ipsc
+0.7022594750	multi scale modeling
+0.7022145077	investigating mechanisms
+0.7010839132	cell type specific
+0.7010113794	brain aging
+0.7006868428	genome wide association
+0.7005483250	covid 19
+0.6988711032	human cardiac myosin
+0.6987952584	activin type ii receptor
+0.6982477954	cardiac plasticity
+0.6974933962	engineered heart
+0.6964508175	anthracycline induced cardiotoxicity
+0.6962534494	heart failure post myocardial infarction
+0.6959988910	ipsc cm
+0.6950629996	skeletal muscle exosomes promote adipocyte lipolysis
+0.6944601509	myocardial regeneration
+0.6937891570	renal disease
+0.6937542675	ischemic heart failure
+0.6931724365	an integrated data science platform
+0.6909088608	cardiac fibroblasts
+0.6908938286	health risk
+0.6900730834	post translational modifications
+0.6897636121	alpha 1a adrenergic
+0.6889074747	adrenergic signaling
+0.6886895314	cardiac progenitors
+0.6885427664	metabolic dysfunction
+0.6885394236	diet induced circadian
+0.6882857253	s nitrosylation
+0.6877061318	cell mediated
+0.6876834866	ultrasound mediated
+0.6872181066	rare genetic
+0.6866839110	d research career scientist award application
+0.6860733855	brain development
+0.6853627279	protein quality control
+0.6851240750	genetic determinants
+0.6839175536	disease pathogenesis
+0.6832818541	myocardial infarction therapy
+0.6817915806	myocardial matrix
+0.6811196751	beta arrestin
+0.6808540900	influenza vaccine to effectively stop cardio
+0.6808173168	sleep regulation
+0.6805339311	aging related
+0.6799829288	beta adrenergic signaling
+0.6798865410	mammalian circadian clock
+0.6788831616	placental adiponectin signaling
+0.6782112910	related ventricular tachycardia
+0.6781396420	induced lung
+0.6778302068	cardiac outflow tract
+0.6756308607	cell therapy
+0.6751114628	obesity related
+0.6748107699	myosin binding protein
+0.6746190419	atherosclerosis in risk communities field center
+0.6732907633	improve heart failure
+0.6729017175	cardiac differentiation
+0.6726611273	normal cardiac
+0.6711312441	disease risk
+0.6705571684	model based
+0.6699961593	myocardial ischemia reperfusion injury
+0.6684348720	vascular function
+0.6680612314	cardiac toxicity
+0.6676943127	cardiac patch
+0.6673541573	renal insufficiency cohort
+0.6673361050	circadian timekeeping
+0.6664123257	down syndrome
+0.6663545379	restore cardiac
+0.6649775438	cardiac sodium
+0.6648891502	cardiac growth
+0.6642741582	cardiac sympathetic
+0.6640118648	genetically engineered pig
+0.6636634496	pediatric chronic
+0.6630794179	ipsc derived
+0.6630330513	cardio metabolic
+0.6622635412	ventricular vascular
+0.6616093449	human heart
+0.6577720897	cardiac mechanics
+0.6565783965	x ray
+0.6562026173	mitochondrial calcium uniporter
+0.6560937527	cardiac injury
+0.6560547890	atrial fibrillation risk
+0.6559647948	cardiac ischemia reperfusion injury
+0.6557451289	cardiac electrical
+0.6545126621	cardiac excitability
+0.6544187887	lung disease
+0.6535736373	stem cell derived cardiomyocytes
+0.6534779300	next generation
+0.6518078403	cell function
+0.6517232624	cell based
+0.6516092748	pulmonary vascular
+0.6484780792	antibody mediated
+0.6480683318	circadian oscillator
+0.6462835672	population based
+0.6461500862	cardiac mr
+0.6459027263	heart model
+0.6453707904	cell growth
+0.6434527343	endothelial cell
+0.6431560721	circadian regulation
+0.6429505274	mediated myocardial
+0.6424484138	based intervention
+0.6405749847	individual differences in dementia spousal caregiver
+0.6390487083	subclinical cardiac
+0.6373180178	cardiac ct
+0.6367991695	clock function
+0.6324260170	diet induced
+0.6316891111	circadian physiology
+0.6292773391	heart muscle
+0.6276469005	cell cell
+0.6275325737	health intervention
+0.6269634243	excitation contraction coupling
+0.6267669665	e cigarettes
+0.6260691516	dependent epigenetic
+0.6260476264	beat to beat
+0.6259994278	pacemaker cells
+0.6257962614	support device
+0.6257073278	induced injury
+0.6256909297	alteration during oncogenesis
+0.6185929635	real time functional
+0.6185470194	cardiac parasympathetic
+0.6182243108	type 2 diabetes
+0.6179920486	heart failure with preserved ejection fraction
+0.6168886938	n acetyl
+0.6160890189	receptor function
+0.6160085684	ipsc derived cardiomyocytes
+0.6159114598	genetically engineered pig organ transplantation
+0.6149607046	retinoic acid dependent
+0.6137903448	il 6
+0.6133518084	immune response
+0.6130103871	heart disease risk
+0.6122459966	molecular biology
+0.6114782654	mitochondrial metabolism
+0.6111943107	right ventricle
+0.6110650943	familial dilated cardiomyopathy towards precision medicine
+0.6092093312	cardiac magnetic resonance
+0.6084061012	class i
+0.6076625135	cardiac ischemia
+0.6061493870	clinical impact
+0.6044980604	fatty liver disease
+0.6040297393	low energy anti fibrillation pacing
+0.6014607944	muscle disease
+0.6014331684	self management
+0.6009548123	antibody mediated transplant rejection
+0.6005418997	human cardiac
+0.6002598868	functional role
+0.5999913828	left right patterning
+0.5991751802	second heart field
+0.5988734787	longevity by branched chain amino acids
+0.5973281643	follow up
+0.5971196311	diabetic heart
+0.5965539341	function core
+0.5953704063	thin filament
+0.5948842158	cardiac transplantation
+0.5935371696	stem cell therapy
+0.5920968822	cardiovascular dysfunction
+0.5918814773	bkca dependent modulation of mitochondrial supercomplexes
+0.5913360564	beta1 adrenergic receptor
+0.5896489986	heart tissue
+0.5885823593	beta adrenergic
+0.5866183863	tetralogy of fallot
+0.5864354271	the dog aging project
+0.5843726132	decompensated heart failure
+0.5836936760	cardiac aging
+0.5834573342	stress signaling
+0.5828253763	cardiac pacemaker cell
+0.5815089860	receptor rev erb alpha
+0.5811965594	interleukin 1 blockade
+0.5794140314	obesity induced
+0.5779799515	cell signaling
+0.5773095342	whole genome sequencing
+0.5772294145	cardiovascular outcomes
+0.5743586858	human circadian
+0.5731388588	cardiac development
+0.5730215861	mir 486
+0.5697516939	c kit
+0.5681640314	molecular clock
+0.5680802019	autonomic nervous system
+0.5662010527	translation initiation in cardiac intercellular communication
+0.5661805172	old age
+0.5655717962	right ventricular
+0.5648249613	human atrial fibrillation
+0.5646863173	pediatric heart
+0.5644494209	chronic heart failure
+0.5622208849	clock modulation
+0.5619387397	heart repair
+0.5599979480	genetic risk
+0.5595137254	advanced heart
+0.5594968617	heart failure risk
+0.5582019642	protein kinase c
+0.5578588771	myosin binding protein c
+0.5567885484	metabolic disease
+0.5562123638	mr imaging
+0.5550214943	among veterans
+0.5543646618	memory t cells
+0.5514370658	protects against
+0.5513028410	stress induced remodeling
+0.5506391368	function and metabolism
+0.5495619913	modeintegrative experimental and multiscale high resolution
+0.5491259895	type 1 diabetes
+0.5473434944	toll like
+0.5465590508	cardiac damage
+0.5459809109	time varying
+0.5453498144	regulating cell fate and shaping
+0.5443482343	young adults with congenital heart disease
+0.5418863412	galectin 3
+0.5413396592	circadian clock regulation
+0.5410461801	the great lakes
+0.5401959996	heart function
+0.5395950547	integrative experimental and multiscale high resolution
+0.5391910838	lamin a c
+0.5378937771	heterogeneity in heart failure
+0.5368646805	heart failure patients
+0.5362274945	cigarillo and hookah
+0.5356033374	inflammatory based fibrosis in
+0.5352198260	cardiac valve
+0.5351978122	cardiac cell therapy
+0.5339332548	at home
+0.5333356602	cardiac rhythm
+0.5325257059	cardiac gene expression
+0.5321333573	cardiac imaging
+0.5307407055	cardiac myosin binding protein c
+0.5302142900	new approaches
+0.5275380128	novel assessment
+0.5274217866	surgical cardioprotection through
+0.5270678844	cardiac lineage
+0.5236322229	cardiovascular development and disease
+0.5228936085	vascular development
+0.5212727418	cardiac inflammation
+0.5202510639	right heart
+0.5192553380	mentoring patient oriented research in deep
+0.5191128006	cardiovascular function
+0.5190464579	protect against
+0.5185725849	heart failure therapy
+0.5177443398	research project
+0.5151840679	healthy aging in companion dogs
+0.5137540188	use disorder
+0.5119350567	core b
+0.5116506632	self regulation
+0.5103016142	microphysiological system
+0.5096020403	inherited cardiomyopathies and therapeutic interventions
+0.5089082876	following myocardial infarction
+0.5087782935	novel target mechanism
+0.5073836271	human disease
+0.5070254943	real time
+0.5069200071	non canonical role
+0.5068177519	integrity in cardiac
+0.5043489559	novel approach
+0.5039260828	cardiovascular development
+0.5030961998	cardiac transcription
+0.5024628976	a randomized controlled trial
+0.5018286665	intervention for african american women
+0.5013463167	mri based
+0.5007796689	duchenne muscular dystrophy associated
+0.5001734939	osteocyte regulation of bone muscle with
+0.4986494459	pediatric cardiac
+0.4978945753	junctophilin 2
+0.4978123160	non coding
+0.4973825462	novel mechanism
+0.4956327068	engineering human myocardium with hybrid biomaterials
+0.4953487066	inflammation induced
+0.4945081856	troponin t
+0.4941861636	3d printed
+0.4940538507	improving agricultural health in southeast asia
+0.4937946680	treatment of duchenne muscular dystrophy
+0.4918826044	e cigarette
+0.4899193730	internal and external
+0.4898731623	pathological cardiac
+0.4875732983	platform for optimizing
+0.4864665497	cardiotoxicity in breast cancer
+0.4856228419	cardiac conduction system morphogenesis
+0.4855939788	heart aging
+0.4834712266	signaling and cardiac
+0.4813532236	alcohol use
+0.4802500095	health in older adults
+0.4798113095	project 4
+0.4796726336	project 3
+0.4788348648	zebrafish heart
+0.4782802783	regulated by nkx genes
+0.4766103514	central circadian rhythms by dopamine
+0.4752076273	novel non invasive
+0.4749724032	sodium excretion and blood pressure
+0.4747496530	cardiac disease
+0.4744462438	tim 1
+0.4732211636	electronic cigarettes on young versus
+0.4732139763	critical role of mitochondrial oxidative stress
+0.4732137144	adults with sickle cell disease
+0.4730030253	without contrast
+0.4708385809	receptor 4
+0.4705494180	trauma sensitive yoga for female
+0.4703518695	mentoring patient oriented research in
+0.4702542123	subclinical cardiotoxicity in breast cancer
+0.4679760766	neurodevelopmental outcomes in congenital heart disease
+0.4674396259	substance use
+0.4667560524	responses in transplantation
+0.4658744150	time restricted feeding
+0.4658668001	aging heart
+0.4653850086	type 1
+0.4652557407	novel risk factors
+0.4642129881	genetic modifiers of congenital heart disease
+0.4639582322	scale modeling of inherited pediatric cardiomyopathies
+0.4638660350	molecular mechanisms
+0.4632928783	structural and functional
+0.4628205808	an integrated
+0.4624232232	enrich 2
+0.4615237810	time restricted
+0.4602633996	free fatty acid receptor 4
+0.4600907406	antagonists for suppression of alzheimer's neuropathology
+0.4597278195	using engineered heart
+0.4594056319	ca2 +
+0.4587546727	novel computational
+0.4582308470	signal transduction and disease pathogenesis
+0.4580340694	very old
+0.4565360194	blr & d
+0.4562069244	intrinsically photosensitive retinal ganglion cells and
+0.4543879350	organ system
+0.4536475952	drug development for tuberous sclerosis complex
+0.4522807411	after cardiac surgery
+0.4520639747	human congenital
+0.4520263996	metabolic signatures of impaired cardiorespiratory fitness
+0.4515127488	mechanisms of platelet modified monocyte phenotype
+0.4494070582	discovery of small molecule
+0.4480035078	binding protein
+0.4479203874	age associated
+0.4477743269	a feasibility study
+0.4476248175	factor 1
+0.4472217374	cardiovascular aging
+0.4460460182	novel therapies
+0.4460291906	project 1
+0.4456164275	t tubule
+0.4448813706	transplant recipients with tocilizumab
+0.4447068480	therapeutic approaches to
+0.4446579490	model for elucidating
+0.4431347406	adolescents and young adults
+0.4430859152	after myocardial infarction
+0.4429728572	acute coronary
+0.4420908150	ectonucleotidases in ischemic heart disease
+0.4411505658	intervention to reduce
+0.4409259779	adults with congenital heart disease
+0.4395946123	heart surgery
+0.4393088480	a pilot
+0.4383386829	cell derived
+0.4380510284	infants with prenatal alcohol exposure
+0.4380452975	strategy to improve
+0.4364067629	osteopontin ogdhl axis in hfpef
+0.4363827687	modling of atrial arrhythmias to optimize
+0.4359727457	bmp 7 modulates inflammation induced cell
+0.4337290845	control spatiotemporal structures in complex networks
+0.4332819378	induced circadian
+0.4325803255	injury following
+0.4325570473	protection against
+0.4324537139	research training in
+0.4319910793	during exercise
+0.4315729393	in myocardial ischemia reperfusion
+0.4313980814	science to improve
+0.4312887750	heart health
+0.4304561533	cardiac dysfunction in sepsis
+0.4301177865	prognostic significance of microrna
+0.4299381734	the linchpin
+0.4279773463	project 2
+0.4266307853	core c
+0.4261166583	alzheimer s disease
+0.4256262704	signatures of impaired
+0.4254182939	cd4 + t cells
+0.4249302750	cell growth through altered circadian proteolysis
+0.4226399618	thoracic events and decompensated heart failure
+0.4224244056	disease risk among overweight african americans
+0.4223389509	identification of causal
+0.4216843841	a randomized
+0.4205662262	alzheimer s
+0.4201467432	non ischemic
+0.4183882088	mechanisms and regulation of
+0.4166881603	reversing microvascular dysfunction in advancing age
+0.4163375458	luminal dynamics in osa induced atherosclerosis
+0.4163070500	dependent transcriptional
+0.4143301931	preference rhythm in drosophila
+0.4143116636	small molecule approaches to targeting
+0.4138365200	after spinal cord injury
+0.4132777310	novel strategy
+0.4131828665	light in early childhood
+0.4119894753	remote hind limb ischemia mechanism of
+0.4116060195	cardiac function for heart failure
+0.4113717645	l type
+0.4103813918	engineered vascular
+0.4093065878	associated lipodystrophies
+0.4092445716	insights into
+0.4091431152	adolescent and young adult
+0.4081739358	molecular pathways
+0.4081560219	il 1 signaling
+0.4070454159	mri study
+0.4061287485	limbic predictors of emotion regulation
+0.4036258023	based 3d
+0.4019327934	calcium release in heart
+0.4019012451	novel mechanisms
+0.4004723979	3 dimensional
+0.4003590261	atrial fibrillation after
+0.4002653209	ii inhibitors for substance use relapse
+0.3989970459	critical role of mitochondrial
+0.3989342872	cardiac death
+0.3978612708	among young
+0.3970048801	signaling mechanisms
+0.3963429724	circadian clock function
+0.3953383142	nad +
+0.3946864314	approaches to improve
+0.3941097766	children with down syndrome
+0.3940178766	disease in hiv infected patients
+0.3936476615	support device for chronic myocardial infarction
+0.3922470899	mechanisms of ventricular wall morphogenesis
+0.3915035403	human ipsc model for elucidating crosstalk
+0.3907921979	and phenotypic
+0.3904233556	among rural
+0.3886113911	omics phenotyping for identifying molecular signatures
+0.3883872607	phenotypic variability of complex disorders
+0.3880636711	newborn screening for critical congenital heart
+0.3879865583	cardiac cells
+0.3876859108	cardiac conduction system
+0.3858630137	pittsburgh center for kidney research
+0.3849490885	identifying novel
+0.3847866611	imaging of scar
+0.3843902291	of ventricular tachyarrhythmias
+0.3839064351	mechanism of action
+0.3830755449	self care
+0.3828040457	using ipsc derived
+0.3824172991	mechanisms of nicotine inhalation induced cardiovascular
+0.3819932985	during sepsis
+0.3819651682	integrating novel mechanisms controlling
+0.3818379356	stress induced
+0.3811234319	against ischemia
+0.3807602390	g protein
+0.3806357583	induced atherosclerosis
+0.3784898068	a complete
+0.3775687616	network properties of circadian clock modulation
+0.3773151611	cell division cycle in single cells
+0.3765660607	development in congenital heart disease
+0.3764581578	mechanisms of mammalian circadian clock function
+0.3757526085	the pathogenesis of alzheimer's disease
+0.3754495063	beta 2
+0.3747300195	immunological and functional
+0.3745185654	into hiv
+0.3734252286	l type calcium channels
+0.3726640398	dysfunction in sepsis
+0.3725170508	neurovascular and cardiac microphysiological models
+0.3724581076	in hiv infected patients
+0.3724318900	circadian rhythms in drosophila
+0.3716582415	whole genome
+0.3713956293	a new
+0.3713536654	by artificial intelligence
+0.3703444085	living with hiv
+0.3701744002	t cells
+0.3697175361	sleep and circadian rhythms
+0.3684210058	arterial inflammation in hiv
+0.3679579739	non invasive
+0.3677208888	nitric oxide signaling in
+0.3674198968	impact of prenatal
+0.3674026137	whole heart
+0.3668013235	imaging system
+0.3664104027	health in older
+0.3659939918	key regulators of
+0.3659137124	veterans with ptsd
+0.3654200235	engineered stem cells for cardiac repair
+0.3650901338	stem cell therapy for ischemic cardiomyopathy
+0.3638701026	microvascular disease
+0.3636963759	outcomes in chd
+0.3632358477	signaling mechanisms of arabidopsis cry2
+0.3631034089	death by
+0.3626667921	a new paradigm
+0.3621929239	fetal brain development in congenital heart
+0.3621273141	by lysine
+0.3620471566	endothelial to mesenchymal transition
+0.3617923574	g protein coupled
+0.3614728283	mediated epigenetic regulation in cardiac
+0.3608284603	myocardial tissue
+0.3594352988	hiv associated
+0.3593657073	t cell
+0.3592099746	sympathetic excitation in heart failure
+0.3589215572	regulation of ion channels
+0.3588625182	hiv infection on myocardial
+0.3588378581	by alternative splicing
+0.3582826187	arising from
+0.3577759792	to identify
+0.3563685340	mechanisms of impaired
+0.3557747904	children with cardiomyopathy
+0.3550461143	to treat
+0.3547541773	circadian clock control of mrna translation
+0.3543975255	mechanistic insights into
+0.3531781766	wnt signaling in cardiac
+0.3530960195	cardiac mitochondrial
+0.3526166319	pre clinical
+0.3525919035	tam kinases in transplant
+0.3519068820	cardiac function and disease
+0.3511582518	heart failure and atrial fibrillation
+0.3508962579	a translational
+0.3507671729	the pharyngeal arch arteries
+0.3498338535	t cell mediated
+0.3492858228	2 geohealth hub
+0.3492457571	tissue enhance heart function and metabolism
+0.3486157614	basis for
+0.3485173567	or omnivorous diets to address
+0.3477817312	il 1
+0.3472291981	a biobehavioral approach
+0.3471946626	na +
+0.3468493470	fog2 in coronary microvascular disease
+0.3466132015	intervention to improve
+0.3462315214	prediction in hiv
+0.3461896959	circadian programs in bacteria
+0.3451109671	a randomized clinical trial
+0.3448580447	signaling by shp2 mutants in rasopathies
+0.3440270435	prevention of heart failure
+0.3436368752	genes for non syndromic
+0.3427717221	human knockouts and population
+0.3412951517	and functional significance of
+0.3411464302	pathogenesis of heart disease
+0.3395017808	men and women
+0.3392951384	cardiac function and dysfunction
+0.3391886474	effects on right ventricular
+0.3388288206	repair in ischemic
+0.3377738367	using mobile health
+0.3377411380	in breast cancer survivors
+0.3362963532	individual differences in
+0.3362300800	depression treatment in cardiac patients
+0.3356944264	b cell
+0.3355796488	caused by
+0.3354885220	cardiac and skeletal muscle
+0.3353437202	non canonical
+0.3353181158	to promote
+0.3353151512	data from
+0.3350248915	human down syndrome and ds ad
+0.3340387144	left right
+0.3336605775	circadian photoentrainment in mammals
+0.3331130877	timing of sleep
+0.3321521422	to assess
+0.3318018959	non human
+0.3307526253	an irradiance pathway
+0.3303228794	in vitro
+0.3296478179	a mixed methods study
+0.3293171781	the aging heart
+0.3290249423	center for functional validation
+0.3288487668	at risk
+0.3284789695	cardiac function in heart failure
+0.3284594020	a mobile
+0.3283996669	camkii signaling in physiology
+0.3281994001	monitoring to improve
+0.3278394850	antihypertensive drugs in
+0.3273426895	amino terminal acetylation of
+0.3271304554	mechanisms of exposure induced tissue
+0.3261610532	sleep and metabolic
+0.3255260155	cardiac structure and function
+0.3251752365	dysfunction in diabetes
+0.3248376015	effects of maternal
+0.3238454525	an automated
+0.3225702160	relationship between
+0.3224519259	focus on congenital and antiretroviral therapy
+0.3214256452	myocardial ischemia and transfusion
+0.3213420961	cardiomyopathy caused by
+0.3204647631	to mitigate
+0.3199495477	mirna as
+0.3196558377	nervous system
+0.3193004843	in multi ethnic populations
+0.3190088188	analysis of circadian clock controlled genes
+0.3182924654	non human primates
+0.3181124369	a novel peptide n acetyl
+0.3178650945	right ventricular adaptation
+0.3177655401	develop novel
+0.3177267063	imaging of coronary
+0.3175267553	cardiac injury and repair
+0.3174054420	to evaluate
+0.3171713707	associated immune
+0.3165727135	ventricular and pulmonary vascular
+0.3163080049	to characterize
+0.3162675310	patients with heart failure
+0.3147177153	to improve
+0.3142734008	extending sleep to improve
+0.3138425748	therapy for ischemic
+0.3134084751	effects on
+0.3133519879	conduction system
+0.3113456476	to guide
+0.3112988069	inflammation in heart failure
+0.3108757936	regulation of cardiac pacemaker
+0.3104067939	to reduce
+0.3098150897	inferring dynamic topology to decode and
+0.3092329094	+ t cells
+0.3088683936	disease mechanisms
+0.3085378525	signaling in congenital heart disease
+0.3083795126	to define
+0.3071274265	quantification of myocardial
+0.3069777947	regulation of gene networks
+0.3064986267	basis of
+0.3062552735	regulation of myocardial
+0.3061503221	gene environment interactions in
+0.3060646112	to prevent
+0.3059602108	people living with hiv
+0.3051237066	derived from
+0.3043993139	after heart transplantation
+0.3042467077	therapy for atrial fibrillation
+0.3024720440	therapy to reduce
+0.3021986639	rate and rhythm
+0.3014893048	to enhance
+0.3001330573	a longitudinal
+0.3000044756	risk in atrial fibrillation
+0.2989076147	management of hot flashes in women
+0.2974756741	adolescents and young
+0.2971550169	in chemical induced cardiac toxicity
+0.2970542538	prognostic significance and modulation with exercise
+0.2958103215	a novel target
+0.2957685303	intercellular communication and
+0.2953715713	role of mir
+0.2953369572	to understand
+0.2947764463	a prospective
+0.2947037813	cardiac myosin
+0.2945438840	joins the circadian oscillator to clock
+0.2941710902	contribute to
+0.2931071864	atlas of human
+0.2930573843	in vivo
+0.2929035475	k +
+0.2925496729	in regulating cardiac metabolism
+0.2924930733	dysfunction in heart failure
+0.2924605906	using ipsc
+0.2918782235	old normal hearts and pathologic hearts
+0.2918749994	to predict
+0.2917487685	to map
+0.2914587482	sensitivity and dietary intake in adolescents
+0.2913833000	dependent regulation of cardiac
+0.2913585970	individuals with
+0.2912194514	heart failure and arrhythmias
+0.2909158235	associations with
+0.2897806086	heart and lung
+0.2894421376	health and disease
+0.2884981425	susceptibility to
+0.2865528803	in single ventricle heart disease
+0.2865002673	novel therapy
+0.2859001433	to pressure overload
+0.2856369072	reversal of heart failure
+0.2849281245	exposure and cardiovascular disease
+0.2841372912	functional imaging of cortico
+0.2836512529	c kit +
+0.2833137236	heart and skeletal muscle
+0.2831615758	an information technology approach to implementing
+0.2823735590	function in cardiomyocyte
+0.2821230124	by mcl 1
+0.2821155529	remodeling in heart failure
+0.2820624361	ovarian effects on intrinsic connectivity and
+0.2815406289	outcomes for patients with heart failure
+0.2815059678	inflammation and atherosclerosis
+0.2807018843	circadian disruption on
+0.2802642431	influences on
+0.2801374824	comparative effectiveness of
+0.2794272217	development of ep2 receptor
+0.2785714985	a tailored
+0.2780331147	diabetic cardiac
+0.2770217716	activated protein c and cardiac inflammatory
+0.2769232619	human ipsc based 3d microphysiological system
+0.2765093174	regulation of cardiac remodeling
+0.2764248756	young adults with
+0.2760840600	to measure
+0.2760060529	a chip
+0.2757546810	data coordinating center for
+0.2757117099	cardiac development and disease
+0.2748663463	in american indians
+0.2748338648	in south africa
+0.2746677903	entrainment of circadian rhythms
+0.2744560945	regulated by
+0.2738891834	to discover
+0.2738736997	death in diabetic cardiac and skeletal
+0.2734431755	a novel
+0.2725056691	development and repair
+0.2718392550	racial disparities in
+0.2716313617	mechanism of lv hypoplasia in hypoplastic
+0.2715385097	vascular pathology from
+0.2703896941	risk for suicidal ideation and behavior
+0.2702437142	cardiac gene
+0.2697131907	prediction of heart failure
+0.2692800980	development and disease
+0.2692071622	& d research career scientist award
+0.2688856156	acute and chronic
+0.2687633453	patient oriented research in
+0.2683054165	functional and structural
+0.2682815541	by phosphorylation
+0.2677226529	a new therapeutic
+0.2676000019	healthy aging in
+0.2674298621	porcine model of
+0.2667505930	of congenital
+0.2666648954	development and regeneration
+0.2662809176	to restore
+0.2648087477	by alternative
+0.2646376404	neural mechanisms
+0.2642898467	the sinoatrial node
+0.2641624201	structure and function
+0.2638826868	heart disease in hiv
+0.2638512579	dna and rna in myotonic dystrophy
+0.2636202826	a prokaryote model
+0.2634606190	expression in children with cardiomyopathy
+0.2615474882	of cortico limbic
+0.2610520898	regulation of energy
+0.2605463239	biomarkers of cardiovascular
+0.2604923873	the circadian system
+0.2604338362	with preserved
+0.2600838508	feeding and metabolic rhythms in humans
+0.2600064657	in duchenne muscular dystrophy
+0.2598804941	effects of exercise
+0.2593202084	dynamics of cardiac
+0.2590681735	preclinical development of
+0.2590392576	cardiac metabolism
+0.2589620473	and environmental determinants
+0.2581990732	the lens of passive sensing
+0.2580412081	1 2 alcohol associated comorbidities
+0.2580011175	in situ
+0.2575809515	older adults with
+0.2575231210	triggered by
+0.2572891909	mechanisms of action
+0.2566521835	contributes to
+0.2556180695	and evaluation of encode enhancer regions
+0.2554837267	strategy on
+0.2553740091	disease risk factors in
+0.2552764433	effects on cardiovascular disease using simulation
+0.2552081081	mediated cardiac
+0.2551919509	elucidating hepatitis c infection as
+0.2549093242	self administered hypnosis treatment for
+0.2540964259	healthy and failing
+0.2533857373	target for cardiac
+0.2531982019	to inform
+0.2529566763	role of
+0.2527330382	molecular mechanisms underlying
+0.2526368423	in companion dogs
+0.2517759621	to advance
+0.2516177534	in hypoplastic left heart syndrome
+0.2515626439	to determine
+0.2514200628	translation initiation in
+0.2510131143	development and function
+0.2509362734	implications for
+0.2498895443	cardiac mr imaging of
+0.2492349276	regulation of beta
+0.2489790218	on cardiometabolic
+0.2487275611	of anthracycline induced cardiotoxicity
+0.2486797179	of cardiac pacemaker cells
+0.2486483856	to protect
+0.2483611008	a mechanistic
+0.2478931338	the mammalian circadian clock
+0.2469984713	a novel therapeutic target
+0.2467716029	and phenotypic heterogeneity
+0.2466366047	molecular mechanisms of atrial
+0.2464720847	for studying
+0.2464720847	for detecting
+0.2463910499	leads to
+0.2455322630	the heart's pacemaker
+0.2453737117	mutations in human
+0.2445688381	a polymeric
+0.2441777163	reducing disparities in
+0.2437566497	cardioprotection through
+0.2432174533	a crucial
+0.2427152554	inhibitor therapy for
+0.2426016771	in nonhuman primates
+0.2425200704	molecular imaging
+0.2421320899	for smoking cessation
+0.2420602376	microvascular dysfunction in
+0.2420154972	signaling and secretomes
+0.2419657121	racial differences in
+0.2418898140	the effect of statins
+0.2417958515	novel methods for
+0.2417462079	during zebrafish heart
+0.2416905001	treatment of heart
+0.2413723695	the cardiac sodium channel
+0.2411554625	mediators of cardiac
+0.2409367188	disease modifying therapy for
+0.2409173735	sleep and cardiovascular risk
+0.2397590184	plasticity in cardiac
+0.2383811365	induced arrhythmia
+0.2383741734	autoimmune mechanisms in
+0.2383671845	effects of
+0.2382591001	the gut microbiome
+0.2380643268	to detect
+0.2378992682	therapy for heart failure
+0.2355641391	regulation of
+0.2355120236	in silico
+0.2351534112	epigenetic and transcriptional
+0.2349403721	improve outcomes in
+0.2347725041	in cardiac node automaticity
+0.2342351107	for treating
+0.2333060693	in hemodialysis patients
+0.2332575044	to optimize
+0.2330909939	regulation during
+0.2327699236	randomized controlled trial of
+0.2327477060	protective effects of
+0.2324949047	induction of cardiac
+0.2316160767	to ameliorate
+0.2315254958	to address
+0.2310191958	in myocardial ischemia reperfusion injury
+0.2306890899	modification of troponin t to improve
+0.2306489277	functional characterization of
+0.2305189249	with mr
+0.2304901451	associated cardiac
+0.2298478335	transcriptional regulation of cardiac
+0.2295631795	induced heart
+0.2291482031	on pain
+0.2289305202	at risk of
+0.2283861407	mechanisms of
+0.2283753011	to reveal
+0.2283147908	a multi
+0.2277855200	responses to
+0.2277691001	to examine
+0.2267819660	cellular and molecular
+0.2260617338	regulation of cardiac
+0.2256861815	a novel therapeutic
+0.2256711747	comprehensive analysis of
+0.2243215224	effect on
+0.2235585942	use of soul food plant based
+0.2234204939	bioenergetics and function
+0.2232192507	in mammals
+0.2230097253	impact of
+0.2226325086	to increase
+0.2225161055	in endothelial cell activation
+0.2223048049	on cardiovascular disease
+0.2221582701	signaling in heart
+0.2213493830	the elderly
+0.2210909839	in cardiac patients
+0.2210696823	in humans
+0.2209783651	signaling in heart failure
+0.2197711187	cardiac and systemic
+0.2196245920	fibroblasts in
+0.2194435016	modulation of cardiac
+0.2194053966	ischemia and reperfusion
+0.2192475651	in muscular dystrophy
+0.2185550683	sex differences in
+0.2184886847	cardiovascular and pulmonary
+0.2177764485	blood pressure control and
+0.2174939320	of circadian clock control
+0.2174089138	a small
+0.2173537765	in female
+0.2172343910	genetic modifiers of
+0.2168795512	in chronic heart failure
+0.2166451782	and significance of sustained circadian oscillations
+0.2165361041	the treatment of vascular disease
+0.2164076549	stimulation on
+0.2163030320	effect of
+0.2161977511	of minimally invasive
+0.2152942160	by targeting
+0.2148788075	the treatment of chronic
+0.2147036458	for dmd
+0.2143977314	in older adults
+0.2143429353	with exercise training
+0.2136806086	in human heart failure
+0.2133850786	of duchenne muscular dystrophy
+0.2128856785	function and dysfunction
+0.2128039197	the heart
+0.2124019817	women with
+0.2123898647	a novel mechanism
+0.2121884027	investigation of
+0.2119354249	risk and resilience
+0.2112550036	quality of life
+0.2107823736	a porcine
+0.2102121967	evaluation of
+0.2100938285	for insomnia
+0.2100677689	metabolism and function
+0.2100359292	role of extracellular
+0.2098304544	multiscale modeling of
+0.2097560620	in pediatric type 1 diabetes
+0.2094336217	outcomes after
+0.2092453692	transcriptional regulation of
+0.2092020978	interactome in
+0.2091199514	for sedentary
+0.2090376037	access to
+0.2087794851	and transmembrane
+0.2087599584	the circadian metabolic
+0.2087176466	molecular mechanism
+0.2083863201	a multi scale
+0.2081884208	control of cardiac
+0.2057313247	impact of sleep extension on insulin
+0.2053606548	blockade on
+0.2052086384	the circadian gene
+0.2049393210	response to
+0.2045626200	cardiac dysfunction after
+0.2045005281	genetic determinants of
+0.2033725320	metabolomic profiles of
+0.2031363890	core a
+0.2030289486	for heart failure therapy
+0.2029847921	overeating in obesity through
+0.2028003375	to target
+0.2023311588	of scar
+0.2022939365	in pulmonary arterial hypertension
+0.2019798049	regulatory mechanisms of
+0.2013464347	in congenital heart disease
+0.2013343105	a study
+0.2011359207	in rasopathies
+0.2009463153	the coronary microcirculation
+0.2008378035	health among
+0.2004297771	for prevention
+0.2003631947	fibrosis and non ischemic heart failure
+0.2003372642	the pathophysiology
+0.2000428830	and cardiometabolic health
+0.1997868829	of thin filament
+0.1994860710	in wnt signaling
+0.1990377594	deep phenotyping of
+0.1988657666	the mitochondrial
+0.1987612528	and subsequent
+0.1980251036	clock dysfunction in
+0.1979839152	mechanisms and therapeutics
+0.1978540308	antibodies to
+0.1978526870	genetic analysis of
+0.1977180367	the immune response
+0.1976803731	a pediatric
+0.1975549200	atrial cardiopathy and
+0.1971286377	with and without chronic kidney disease
+0.1970321232	cardiac development and function
+0.1969921411	on cardiovascular risk
+0.1968984983	cardiac nervous system
+0.1968272965	electrical stimulation of
+0.1967656313	s disease
+0.1964574101	the neural
+0.1964093693	relation to
+0.1962133901	to study
+0.1959109387	the neonatal period
+0.1956067404	in chronic kidney disease
+0.1951943602	cell exosomes for
+0.1951228879	characterization of
+0.1947596623	functional dissection of
+0.1946531303	to reduce health
+0.1945201399	cells to
+0.1937992473	and body weight
+0.1929504528	induced cardiovascular
+0.1928672361	and other
+0.1923184656	of cigarillo and hookah
+0.1918644907	in l type calcium channels
+0.1918366679	in south asians
+0.1916646529	pacing using
+0.1916642031	people with
+0.1912283377	mechanisms of second heart field development
+0.1908666538	mechanisms of circadian clock
+0.1907534180	therapeutic targets in
+0.1905396545	resources for
+0.1903927481	prognostic significance of
+0.1899155432	with age
+0.1897285863	impact on
+0.1896512297	on alcohol use
+0.1891914659	assessment of policies through prediction of
+0.1889902938	circadian and homeostatic
+0.1888791505	multimodality molecular imaging of
+0.1887948351	determinants of
+0.1887623092	the circadian oscillator
+0.1878799543	quantitative mri for
+0.1877131595	calcium release in
+0.1873760231	in skin
+0.1873040506	regulation of cardiac inflammation by fibroblasts
+0.1872906310	circadian clock control of
+0.1871832125	mechanism of heart failure
+0.1871652067	analysis of
+0.1864572530	the adaptive
+0.1858142586	approach to
+0.1855917394	by protein
+0.1852622547	to improve clinical
+0.1851652451	to improve outcomes
+0.1851402141	heart development and disease
+0.1849382499	cardiac lymphatics in
+0.1849249504	in utero
+0.1844155287	cell therapy for
+0.1843928075	exercise intolerance in
+0.1843236271	mechanisms for sex differences in cvd
+0.1838172008	exosomes as mediators of
+0.1834987876	in diseased
+0.1833945875	and stress induced remodeling
+0.1833674870	in heart failure with preserved
+0.1827486871	modifiers of
+0.1826984870	due to
+0.1822409781	adult heart
+0.1817746320	in african americans
+0.1814174339	the healthy and failing heart
+0.1807984832	development of
+0.1806907925	by metabolic
+0.1805935961	techniques for
+0.1805273465	novel molecular
+0.1805206844	the suprachiasmatic
+0.1804040506	targeting inflammation and alloimmunity in heart
+0.1801961443	strategy to
+0.1793944535	human heart failure
+0.1793543029	platform for
+0.1792832734	a targeted therapeutic
+0.1792539316	roles of
+0.1791419071	proteins in mammalian biology and disease
+0.1789515567	predictors of
+0.1788500778	molecular regulation of ventricular
+0.1781639421	a nutrition based approach to reduce
+0.1776784917	mr imaging of
+0.1775795845	the affective enhancement of memory
+0.1774936971	tace and clock mechanisms in aging
+0.1773599558	mechanisms of ventricular
+0.1770379213	circadian regulation of
+0.1768257548	genetic and environmental determinants of
+0.1768148770	cardiac microtissues with
+0.1767112854	in baboons
+0.1766481739	control of
+0.1762205470	randomized trial of
+0.1759088463	in heart failure
+0.1755757042	longitudinal changes in
+0.1752873704	the infarcted
+0.1750852607	in cmc induced
+0.1749457996	the racial
+0.1748209578	a protein
+0.1746714222	with diabetes
+0.1742648391	with hiv
+0.1742372455	and autonomic dysregulation
+0.1741019082	regulation in adult
+0.1740389080	in ischemic heart disease
+0.1739867946	resource for
+0.1738620172	myocardial fibrosis in
+0.1738426704	of free fatty acid receptor 4
+0.1738204058	analysis of cardiac
+0.1734879043	lung and heart
+0.1733229928	endothelial dysfunction in
+0.1732619861	and fetal programming in maternal obesity
+0.1725897798	sudden cardiac death in
+0.1725030670	the mammalian cardiac nervous system
+0.1723844612	technologies for
+0.1723830558	in south
+0.1720222768	of older adults
+0.1719797716	and sudden death
+0.1717723428	mouse model of
+0.1717682689	the aged
+0.1714191980	hydrogels for
+0.1711900479	approach to molecular cell pathologies of
+0.1708430464	in black women
+0.1707932868	the hypoxic
+0.1706271316	and pre clinical
+0.1699242161	and vascular stiffening
+0.1694092091	role in human health and disease
+0.1693457914	approaches to
+0.1693377598	epigenetic regulation of
+0.1692071215	glucose homeostasis in
+0.1692003993	in hiv infected
+0.1687897576	circadian dysfunction and
+0.1687165414	on mitochondrial function
+0.1685159287	the role of junctophilin type 2
+0.1685044431	hcn channels in
+0.1681306190	adults with
+0.1678814305	therapeutic targeting of
+0.1678577089	roles of circadian rhythms in
+0.1678146972	in regulating
+0.1676864847	assessment of
+0.1676629744	channel trafficking and
+0.1676284340	mechanism of
+0.1673314532	in ischemic heart failure
+0.1672534553	molecular and neural mechanisms of temperature
+0.1667719009	of anthracycline related
+0.1667486758	clock control of
+0.1663729625	adaptation to
+0.1660090424	neuroprotection in
+0.1660090424	snrk in
+0.1659615106	drugs in
+0.1656114010	a therapeutic avenue for
+0.1655022215	valve repair in
+0.1654082239	circadian clock disruption and
+0.1652724803	the heart during diabetes
+0.1651770694	structural basis for
+0.1651593876	based approach to
+0.1651003638	and other pediatric epileptogenic diseases using
+0.1650737193	1 2
+0.1648468783	a multi scale approach to
+0.1648039626	& metabolism
+0.1646504928	and sudden cardiac death
+0.1639755425	the muscle
+0.1634537825	in heart development and regeneration
+0.1630601344	cardiovascular consequences of
+0.1630532922	measuring and perturbing metabolic rhythms and
+0.1630239591	methods for
+0.1628083541	regulator of cardiac
+0.1622987781	lipid metabolism in
+0.1620471314	the mammalian circadian clock system
+0.1620271584	therapeutic potential of
+0.1618101277	the circadian rhythm
+0.1616919825	with congenital heart disease
+0.1615369990	therapeutic target for
+0.1615205412	of excitable cells
+0.1613545926	obesity through
+0.1613084411	an integrated approach to
+0.1612750492	a circadian circuit
+0.1607420749	between circadian
+0.1603944935	associated with
+0.1600394196	living with
+0.1600115997	for improved
+0.1597827958	for heart regeneration
+0.1596362819	prevention and treatment of
+0.1594702189	the pediatric heart network
+0.1591892243	in nutrient
+0.1591817573	for modeling cardiac dysfunction in microgravity
+0.1588395667	the functional
+0.1588292377	on atherosclerosis
+0.1583738257	in african
+0.1583553871	mechanisms of human
+0.1581648047	for coronary heart disease
+0.1580849611	on inflammation
+0.1578327345	stress reactivity and self regulation in
+0.1575803838	of sleep extension
+0.1574853667	intervention with
+0.1570850715	klf5 in
+0.1570850715	movement in
+0.1569853970	preterm birth and
+0.1561944446	mouse functional analysis of genes for
+0.1561571260	molecular and cellular mechanisms
+0.1560644075	in cardiac stress
+0.1559942652	of rapamycin
+0.1558896024	in rodents
+0.1558534349	clonal hematopoiesis in
+0.1556554354	klotho and
+0.1553425774	genomic basis of
+0.1552934791	intervention for
+0.1552744250	dependent regulation of
+0.1550520574	the diabetic heart
+0.1549319985	and prognosis
+0.1548759488	the gap
+0.1542261249	identification of
+0.1540864369	origin of
+0.1538902737	the eye
+0.1538477025	prognostic markers in
+0.1538414496	sensors for
+0.1537667482	regulator of
+0.1535408146	a biomarker
+0.1535328299	aspects of
+0.1533131584	insulin resistance and
+0.1531964377	in postnatal
+0.1531964377	in neonates
+0.1530512148	the circadian clock
+0.1529490313	deciphering mechanisms of
+0.1528333035	for atrial fibrillation
+0.1528029779	in high risk
+0.1525532277	function via
+0.1524152619	framework to
+0.1521617925	mechanisms of exercise intolerance in
+0.1521306038	involved in
+0.1519319139	the role of
+0.1517089638	in young adults
+0.1514319724	children with
+0.1513463022	composition and
+0.1512932573	of galectin 3
+0.1512798346	based on
+0.1512113892	in heart failure patients
+0.1511999032	mechanisms of cardiac
+0.1511828973	the ischemic myocardium
+0.1511336019	to treat heart failure
+0.1504792527	biosensor for
+0.1501040225	during human
+0.1499599302	on alcohol
+0.1499303928	a comprehensive
+0.1499055705	interaction of
+0.1494628452	in ischemic
+0.1494376158	circadian clock regulation of
+0.1492809648	of lmptp
+0.1492357182	a model
+0.1490636253	cardiovascular disease risk in
+0.1489777839	of cardiomyocyte proliferation
+0.1489766420	inhibition on
+0.1486636616	risk among
+0.1484371204	in children with down syndrome
+0.1482727764	the adaptive er stress response in
+0.1474152424	in drosophila
+0.1473726575	feeding time and
+0.1471447776	vulnerability to
+0.1470977255	gene therapy for
+0.1469758852	on cardiovascular health
+0.1469694441	and microbiome evaluation in hiv
+0.1468372536	aerosols in
+0.1466443259	studies of
+0.1464766394	in mouse models
+0.1463416196	of blood lipids
+0.1459602681	cues for
+0.1457246331	lymphatics in
+0.1456281942	mobile health strategies for veterans with
+0.1454880042	in patients with
+0.1447006926	investigations of
+0.1444351177	genetic and molecular dissection of
+0.1441223752	wnt signaling in
+0.1439053488	in heart development and disease
+0.1434620794	models for
+0.1429816611	molecular and cellular
+0.1428815568	for enhancing
+0.1427495173	for stroke prevention in atrial fibrillation
+0.1426496572	defining new pathways for
+0.1425444090	challenges of
+0.1425047869	a non coding rna in
+0.1424179204	programs in
+0.1417247282	allograft tolerance in
+0.1412228761	and data management
+0.1412212967	and myocardial structure
+0.1409871858	and non ischemic
+0.1408514217	therapy for
+0.1403297455	for heart repair
+0.1400815075	framework for
+0.1399792319	molecular basis of
+0.1398794111	in breast cancer
+0.1396901672	cellular mechanisms of circadian timekeeping in
+0.1396684495	dependent control of
+0.1396358169	lipid signaling in cardiac development and
+0.1394539394	rules of
+0.1393339274	the mammalian circadian system
+0.1393299502	enhancement of
+0.1393161773	discovery of novel
+0.1392598860	in type 2 diabetes
+0.1392234568	integration of
+0.1390640876	examination of
+0.1390163313	a mechanism
+0.1379114840	complications of
+0.1379100723	mitochondrial ros in
+0.1373754608	the failing heart
+0.1369850254	strategies for
+0.1362089469	adhd in
+0.1360602662	circadian control of
+0.1359324925	improvement of
+0.1359324925	mediation of
+0.1359260754	of statin
+0.1357239528	youth with
+0.1355930574	clinical impact of
+0.1354296335	patients with
+0.1351772546	s role in regulating disease induced
+0.1351379987	in adolescents
+0.1351229632	turnover in
+0.1349893174	with dementia
+0.1344979632	elucidation of
+0.1344655165	mechanisms of circadian
+0.1342898723	cardiac dysfunction in
+0.1342364458	trajectory of
+0.1342252766	mechanisms of t cell activation in
+0.1341526310	risk factor for
+0.1340855435	a new paradigm for
+0.1340009423	for arrhythmia
+0.1338348261	4 signaling in
+0.1337214898	regulation of metabolism and
+0.1336094546	device for
+0.1334416004	measures of
+0.1333169264	mechanistic studies of
+0.1331994748	a novel role for brown adipose
+0.1331982684	inhibition by
+0.1330736924	metabolic regulation of
+0.1328870196	on markers of cardiovascular
+0.1328081258	role of vascular
+0.1327635324	in post mi
+0.1325604359	roles of protein degradation in
+0.1324805927	and treatment of
+0.1322379367	in older
+0.1322043495	the body plan during morphogenesis and
+0.1321640433	insulin sensitivity and
+0.1319830117	in age related
+0.1318673512	mechanisms and novel
+0.1317449589	and functions of mammalian
+0.1317403876	to alcohol
+0.1316210752	comprehensive structural and functional mapping of
+0.1314646928	to support
+0.1314334009	risk factors for
+0.1311899654	the relationship between
+0.1308913104	for veterans
+0.1307878049	in patients with atrial fibrillation
+0.1307537274	the role of sex
+0.1305929457	function during
+0.1305587037	and risk of
+0.1304242343	differences in
+0.1303957167	pathways to
+0.1303577826	consequences of
+0.1302915488	to mitochondria
+0.1299406245	veterans with
+0.1299050005	cardiac manifestations of
+0.1295379484	signaling in
+0.1294501181	aberrant circadian regulation of autophagy in
+0.1294106976	strategy for
+0.1291967078	on cardiovascular
+0.1291941741	modulation of
+0.1290519553	reversal of
+0.1287660764	induction of tolerance to
+0.1283394578	signature of
+0.1282612437	the role of altered
+0.1281033051	for optimizing
+0.1278189780	hydrogel for
+0.1278120123	targets for
+0.1274731753	functional analysis of
+0.1273974748	of impaired
+0.1273280739	in regulating cardiac
+0.1271196058	a neuronal
+0.1271125436	prognosis of
+0.1268200929	circadian clocks in
+0.1266281572	to control
+0.1264652342	and neurocognitive
+0.1264023324	micropeptide in
+0.1263751175	of sleep and circadian
+0.1260339619	clocks in
+0.1257085230	vascular dysfunction in
+0.1256771914	removal of
+0.1254819825	defect in
+0.1252592992	for inhibition of reperfusion injury
+0.1252361116	remodeling and gene expression in
+0.1252311244	regulation of circadian rhythms in
+0.1252193845	cellular molecular
+0.1251434292	the pathogenesis of
+0.1250338111	t cell activation in
+0.1247003511	markers of
+0.1246602542	studies of sleep and
+0.1241926623	circadian rhythms by
+0.1240633672	aging on
+0.1239748619	university of
+0.1239740508	molecular determinants of
+0.1238417721	physical activity for
+0.1238256154	a human
+0.1236395378	health effects of
+0.1235955741	the community
+0.1235926040	in cardiac development and function
+0.1231557981	functions of opn5 and opn3 in
+0.1229894557	center for
+0.1228920371	the cardiovascular system
+0.1226552555	and application of
+0.1223288740	among patients with
+0.1222381856	platform to
+0.1220691819	functional and pathological changes in
+0.1219926325	a mouse model of alzheimer's disease
+0.1218831861	atrial fibrillation by
+0.1218450868	and susceptibility
+0.1217905046	for stroke
+0.1213429112	cardiovascular mri for
+0.1210300655	exercise capacity in
+0.1207140174	of fast
+0.1206254450	and psychosocial
+0.1204516755	right ventricular dysfunction in
+0.1204399091	to understanding
+0.1203831756	dna damage and
+0.1203759628	molecular mechanisms of
+0.1193577117	functional role of
+0.1192645142	a long
+0.1188873505	the human heart
+0.1188800328	the heart in myotonic dystrophy
+0.1186771975	stress as
+0.1186124037	myosin binding protein c in
+0.1182280113	regulation by
+0.1181696665	as risk factors for
+0.1181238631	in children
+0.1180795400	novel mechanisms of cardiac
+0.1180644165	acetylation in
+0.1180391446	of treg
+0.1179765779	cardiac myosin binding protein c in
+0.1177890436	for patients with heart failure
+0.1176666816	a novel regulator of cardiac
+0.1176161317	genetic regulation of
+0.1175985856	a mechanism for
+0.1174713182	circadian mechanisms of
+0.1169553144	molecular mechanism of
+0.1168281960	for myocardial repair
+0.1165553818	ion channels in
+0.1165347927	change in
+0.1159138584	the role of palmitoylation in cardiac
+0.1156691986	in donor
+0.1156546656	as mediators of
+0.1153810880	the regulation of
+0.1152903131	in congenital heart
+0.1151075941	and alcohol induced
+0.1150821339	in cardiac function and disease
+0.1149996075	screening for
+0.1149812061	the genomic
+0.1149666601	identification of novel
+0.1149633464	and energy metabolism
+0.1148293490	a risk factor for
+0.1147468343	role and mechanism of
+0.1147457310	computational modeling of
+0.1145475310	for cvd
+0.1144189055	mechanisms of vascular
+0.1143499641	for cardioprotection
+0.1142987517	disparities in
+0.1142231878	in congenital
+0.1141100997	for personalized
+0.1139935875	pathology and development of
+0.1133971531	gene expression in
+0.1131654682	& metabolism in
+0.1131013840	of mindfulness
+0.1128990015	arrhythmia mechanisms in
+0.1128164898	the cardiomyocyte hif pathway and
+0.1127684556	restoration of
+0.1126071895	of hypertrophic
+0.1124680799	a novel approach to
+0.1121730383	benefits of
+0.1117291029	cardiac metabolism and
+0.1116217240	interventions on
+0.1116105598	modulation with
+0.1114030182	mechanisms of cardioprotection
+0.1112440096	system for
+0.1106407819	tool for
+0.1105263447	exosomes as
+0.1098599273	in cardiac transplantation
+0.1098002107	biology of
+0.1096946310	for obesity
+0.1096347550	physiological mechanisms of
+0.1095314325	in neurospora
+0.1094711443	the vagal
+0.1094236674	regulation of circadian
+0.1094231314	a risk factor for coronary heart
+0.1093565509	origins of
+0.1092719857	for cardiac regeneration
+0.1091794648	therapeutic target in
+0.1090854425	regulation of cardiomyocyte
+0.1090805903	in myocardial ischemia
+0.1089939469	nanoparticles for
+0.1089401687	cardiac progenitors in
+0.1084165878	genetic and molecular
+0.1083032177	study of
+0.1082927754	therapies for
+0.1082653965	a novel regulator of
+0.1079843898	changes in
+0.1078442154	and safety of
+0.1072842474	for pancreatic
+0.1069482260	axis in
+0.1067952336	deficits in
+0.1065331208	stress reactivity in
+0.1064792442	regulation of mitochondrial
+0.1064095953	heart function in
+0.1062198923	at risk for
+0.1061440442	relationship to
+0.1058442154	and repair in
+0.1053761237	molecular and neural mechanisms
+0.1052987088	induced by
+0.1051371259	feasibility of
+0.1048600969	diagnosis of
+0.1045332846	oxidative stress in
+0.1045047656	the kidney
+0.1038225022	a role for
+0.1038066130	cardiovascular development and
+0.1037619368	metabolic mechanisms of
+0.1034855380	detection of
+0.1034287101	health disparities in
+0.1030112608	the progression
+0.1028197745	a therapeutic
+0.1027887225	and mortality
+0.1026611336	regulators of
+0.1025186986	mechanisms of cardiac dysfunction in
+0.1024213413	a biomarker for
+0.1022098055	the progression to
+0.1015818751	in modulating
+0.1011841831	disease using
+0.1009717567	in cardiac and systemic
+0.1007994377	analyses of
+0.1004013792	and cognitive
+0.1003156386	in cardiac development
+0.1001775488	and cardiovascular function in
+0.0999699208	optimization of
+0.0996737350	use of
+0.0996340705	of cardiovascular disease in
+0.0995233736	and angptl8
+0.0992917787	history of
+0.0992774913	in zebrafish
+0.0989131346	critical role of
+0.0988993891	in non human
+0.0985768144	and cardiac dysfunction with
+0.0984719935	the offspring
+0.0983623410	pka and
+0.0982767171	for cardiac repair
+0.0981227209	substrates of
+0.0977472695	of sglt2
+0.0977161044	correlates of
+0.0977129803	signaling by
+0.0973754840	cardiovascular risk in
+0.0970882078	in health and disease
+0.0964031948	dissection of
+0.0962999242	the treatment of heart failure
+0.0962270375	variation in
+0.0961842002	timing of
+0.0961672125	and circulating
+0.0961233950	delivery of
+0.0958835691	a trigger for
+0.0958599388	contribution of
+0.0958044701	the efficacy
+0.0957201589	in sepsis
+0.0956421402	the mammalian
+0.0956016205	heterogeneity in
+0.0951118043	t cells in
+0.0950908120	genetics of
+0.0949935423	for critical congenital heart disease in
+0.0949037732	in cardiac hypertrophy
+0.0942799509	mitochondrial regulation of
+0.0942528266	programming of
+0.0941031383	and cardiovascular disease in
+0.0940451612	drivers in
+0.0938829798	cardiac mri for
+0.0937968527	the central
+0.0936468187	in mediating
+0.0936437555	molecular imaging of
+0.0934918185	the dna
+0.0933918555	and young adults with
+0.0932477339	in patients with heart failure
+0.0931744261	therapeutics for
+0.0931095430	for wireless
+0.0929312027	the identification
+0.0929165683	with and without
+0.0926911651	the complex genetics of
+0.0923992986	dysregulation of
+0.0923135338	diseases with
+0.0922452260	of subcellular
+0.0919563119	and blood pressure in
+0.0919396252	suppression in
+0.0917791361	in infants with
+0.0917574787	model of
+0.0912791796	in hemodialysis
+0.0912383393	for understanding
+0.0912057207	the failing
+0.0911561267	of bone
+0.0910953561	of intestinal
+0.0910815004	and neurodevelopment
+0.0908649030	in cardiac fibrosis and
+0.0908476086	heart failure with
+0.0907305377	a novel role for
+0.0907099532	and cognition
+0.0905905142	to repair
+0.0904541996	loss of
+0.0902896453	in dementia and
+0.0894936580	novel therapy for
+0.0893409945	relevance of
+0.0892650164	in cardiac myocytes
+0.0892536791	and cardiac dysfunction
+0.0888063771	the relationship
+0.0886419959	regulation of vascular
+0.0885664319	regulation of sleep
+0.0884779179	impacts of
+0.0883182593	maladaptation in
+0.0882206068	risk prediction in
+0.0879454115	the regulation of health and
+0.0877846710	circadian rhythms in
+0.0876648348	and heart health
+0.0871065783	in ischemic heart
+0.0871031383	in cardiomyocyte and
+0.0870120122	influence of
+0.0869944768	sleep by
+0.0864072773	new mechanisms of
+0.0862823728	in cardiomyocyte adhesion and
+0.0856553792	modeling of
+0.0855171714	indicator of
+0.0852986122	mechanisms in
+0.0847027194	physiology by
+0.0846120781	and cardiac function during
+0.0837787448	the brain and
+0.0835794421	for acute
+0.0835698699	the onset of
+0.0834122984	metabolism by
+0.0833660985	validation of
+0.0830892764	quantification of
+0.0830564272	mechanism for
+0.0830507290	in mice
+0.0828649030	and risk for
+0.0825822688	for children with
+0.0825664834	novel mechanism of
+0.0825574790	induction of
+0.0824911468	the pathobiology of
+0.0824769990	a novel therapeutic target in
+0.0824455767	in youth with
+0.0824445871	novel mechanisms of
+0.0824277393	a driver of
+0.0821418097	in pediatric
+0.0820822353	in adolescents with
+0.0820033690	dysregulation in
+0.0819301050	disruption on
+0.0819173969	mediator of
+0.0817603170	prediction of
+0.0817365634	adolescents with
+0.0816046703	function in
+0.0815854269	in cpvt
+0.0815555552	the impact of
+0.0814469656	interactions in
+0.0811066069	strategies to
+0.0810800143	a randomized controlled trial of
+0.0806119212	alterations in
+0.0803032838	mediators of
+0.0802073240	drug for
+0.0801517816	in people with
+0.0801120781	in health and
+0.0800707238	the treatment of
+0.0799128337	novel role for
+0.0797075308	initiation of
+0.0796590395	and incidence of
+0.0793834614	disruptions in
+0.0793731270	dysfunction in
+0.0788900806	for ischemic
+0.0788288812	of alzheimer's
+0.0784897643	phenotyping for
+0.0784486555	signatures of
+0.0780013483	rct of
+0.0778197881	of sudep
+0.0778032966	and metabolic
+0.0776329134	in black
+0.0773534787	in infants
+0.0773248794	models of
+0.0767281729	to light in
+0.0767241591	technology for
+0.0766311165	of cardiac function in
+0.0766214037	development of novel
+0.0765858931	indicators of
+0.0765685999	the formation of
+0.0763207787	plasticity in
+0.0759538204	genes in
+0.0758871530	molecular characterization of cardiomyopathy mutations in
+0.0756508295	functions of
+0.0749829475	cardiomyocytes to
+0.0748504725	signals in
+0.0745878596	mentoring in
+0.0744635574	for patients with
+0.0742352665	for use in
+0.0742341655	mapping of
+0.0741273539	targets in
+0.0740841965	the effects of
+0.0739940383	biomarker of
+0.0739123613	a therapeutic for
+0.0737678141	and longevity
+0.0735531994	tracking of
+0.0732331544	macrophages in
+0.0731325545	the cardiac conduction system
+0.0729489528	features of
+0.0723959812	the circadian
+0.0719271729	biking and
+0.0718509726	mechanisms of exercise
+0.0718028303	proteins in
+0.0714902770	the effect of
+0.0713836037	in veterans
+0.0713306554	the diabetic
+0.0706658276	a role
+0.0706328182	the pathogenesis
+0.0703931319	networks for
+0.0697531381	models to
+0.0693042182	suppression of
+0.0689779400	therapy on
+0.0686651370	molecular and cellular mechanisms of
+0.0685017880	fitness in
+0.0680012890	in chronic
+0.0676574834	isoforms in
+0.0673775485	care for
+0.0673064818	pathophysiology of
+0.0671799021	in veterans with
+0.0665301187	the heart during
+0.0662850431	for treatment of
+0.0661716654	in older adults with
+0.0660764536	contributions of
+0.0658291734	efficacy of
+0.0657624617	cycling in
+0.0653337998	interventions for
+0.0652952796	in pathological
+0.0651373026	effectiveness of
+0.0650988368	target for
+0.0642423496	modeling to
+0.0642012219	for prevention and
+0.0636523634	crosstalk in
+0.0634923257	morphology in
+0.0634207986	in diabetic
+0.0633245757	capable of
+0.0631148116	the mechanism of
+0.0626883332	inhibitors of
+0.0624738872	cycle in
+0.0618816168	in patients
+0.0615870243	approaches for
+0.0614284187	pathway in
+0.0612389743	a novel target for
+0.0612120365	the development of
+0.0610271929	novel role of
+0.0608252173	the study of
+0.0608076027	in heart development and
+0.0605516975	in children with
+0.0604738733	mutations in
+0.0600057022	the association of
+0.0598602538	the impact
+0.0596647754	genomics of
+0.0596647733	the novel role of
+0.0596463739	and function of
+0.0595904912	a regulator of
+0.0593935294	the circadian clock to
+0.0592814209	the influence of
+0.0590057022	a novel mechanism of
+0.0587909531	the assessment of
+0.0585106202	the contribution of
+0.0581325032	immunity and
+0.0580727613	and later
+0.0580382659	in hiv
+0.0577464699	risk in
+0.0575845550	a model of
+0.0574237839	metabolism in
+0.0572500645	molecular and neural mechanisms of
+0.0571168261	profiles of
+0.0569779400	genes for
+0.0566827367	cardiomyocytes for
+0.0561243298	the control of
+0.0556841683	the molecular basis of
+0.0553888414	the prevention of
+0.0552769701	oxidation in
+0.0550425098	in cardiac development and
+0.0543903989	epidemiology of
+0.0542901540	the circadian clock in
+0.0539825429	exosomes for
+0.0538952874	imaging of
+0.0538728186	the role
+0.0537671717	in models of
+0.0537362744	the pathophysiology of
+0.0535608244	molecular regulation of
+0.0534253326	and oxidative stress in
+0.0529706749	apoptosis in
+0.0528252173	the identification of
+0.0526617601	treatment of
+0.0522052898	survival in
+0.0518551295	atlas of
+0.0517124011	and validation of
+0.0515832273	the mammalian circadian system and
+0.0511654030	angiogenesis in
+0.0510586870	function by
+0.0502528359	abnormalities in
+0.0502174281	rnas in
+0.0499673621	pathways in
+0.0495711915	the molecular mechanisms of
+0.0490015476	processing in
+0.0489810727	outcomes in
+0.0488916717	and vulnerability to
+0.0488555844	and cognition in
+0.0487129750	associations of
+0.0483226469	factor for
+0.0483201720	association of
+0.0483197128	outcomes for
+0.0481041080	composition in
+0.0477585136	circuit in
+0.0471785260	mechanotransduction in
+0.0469289060	and cardiovascular risk in
+0.0465115108	the roles of
+0.0457945094	repolarization and
+0.0448848224	mri for
+0.0444227401	trafficking in
+0.0441648436	dynamics in
+0.0437819388	factors for
+0.0435752971	and prevention of
+0.0433093827	dynamics for
+0.0432990278	model for
+0.0430111473	neural mechanisms of
+0.0424638753	variants in
+0.0419432157	discovery of
+0.0417822643	aging in
+0.0417011843	pathogenesis of
+0.0416850323	light in
+0.0413422032	capacity in
+0.0411360547	treatment for
+0.0409971144	communication and
+0.0409466919	the molecular
+0.0405060011	health in
+0.0403702148	rhythms in
+0.0398913586	expression in
+0.0391381445	cells in
+0.0384408857	coupling in
+0.0383076623	disorders in
+0.0380000582	damage in
+0.0372776406	responses in
+0.0369447909	activity in
+0.0368308772	factors in
+0.0364472116	training in
+0.0363602407	patterns of
+0.0363281829	biomarkers of
+0.0359182223	prevention of
+0.0350913715	target in
+0.0341416682	dynamics of
+0.0336671266	potential of
+0.0323729092	channels in
+0.0311123162	fibrosis in
+0.0223463618	function of
